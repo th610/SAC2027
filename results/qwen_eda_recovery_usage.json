@@ -1,0 +1,37 @@
+{
+  "condition": "qwen_eda",
+  "task_id": 59,
+  "purpose": "additional parse-recovery API attempts not included in the recovered task artifact usage aggregate",
+  "attempts": [
+    {
+      "attempt": 1,
+      "usage": {
+        "prompt_tokens": 395,
+        "completion_tokens": 104,
+        "total_tokens": 499
+      }
+    },
+    {
+      "attempt": 2,
+      "usage": {
+        "prompt_tokens": 509,
+        "completion_tokens": 104,
+        "total_tokens": 613
+      }
+    },
+    {
+      "attempt": 3,
+      "usage": {
+        "prompt_tokens": 623,
+        "completion_tokens": 101,
+        "total_tokens": 724
+      }
+    }
+  ],
+  "expected_totals": {
+    "prompt_tokens": 1527,
+    "completion_tokens": 309,
+    "total_tokens": 1836
+  },
+  "source_artifact": "source project task_59.error.attempt1.json; only numeric API usage fields are redistributed"
+}

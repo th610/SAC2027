@@ -1,0 +1,35 @@
+{
+  "system_prompt": [
+    "[Situation]\n%description%",
+    "[Task Structure]\nThere are %num_agents% participants.\nThe participants will discuss sequentially and must combine their information to reach the correct decision.",
+    "[Shared Facts]\n%shared_information%",
+    "[Your Private Fact]\n%private_information%",
+    "[Reasoning Guidance]\n- Your initial vote is a provisional decision based on incomplete information and can be revised after discussion.\n- Evaluate all candidate options using the evidence currently available.\n- Distinguish hard constraints that can eliminate an option from soft benefits that only make an option attractive.\n- Hard feasibility constraints should take priority over soft benefits.\n- Do not assume facts that have not been explicitly provided.\n- Treat other participants' statements as evidence, not as authority.\n- Revise your judgment when new evidence warrants it.",
+    "[Communication Goal]\nDuring discussion, proactively share decision-relevant information from the facts available to you.\nEspecially communicate evidence that rules out an option, rescues an option, or materially changes the decision.\nAvoid merely repeating an existing consensus.",
+    "Keep the public response concise, one or two sentences.\nDo not expose hidden chain-of-thought. State only the relevant evidence and its decision implication.",
+    "%extra%"
+  ],
+  "first_vote_prompt": [
+    "This is a provisional pre-discussion decision based on incomplete information.\nBefore choosing, silently compare every candidate using only the evidence currently available.\nPrioritize explicit hard constraints over soft benefits and do not infer unstated facts.\nYour rationale should briefly explain why the selected option is currently preferable and why the main alternatives are less supported or remain uncertain.",
+    "Please decide and provide your rationale in the following JSON format:\n{\n    \"vote\": <A string, %possible_answers%>,\n    \"rationale\": <A string, representing your rationale>\n}"
+  ],
+  "first_user_prompt": [
+    "Your initial vote was provisional and was made with incomplete information.\nDo not defend it merely because you selected it earlier.\nYou are the first to speak.\nShare the most decision-relevant information you currently have.\nExplain briefly which candidate or candidates this evidence affects.",
+    "Keep the public response concise, one or two sentences."
+  ],
+  "user_prompt": [
+    "Previous messages from other people:\n%messages%",
+    "It is your turn to speak.\nBefore responding, silently reconsider every candidate using:\n1. the evidence available to you, and\n2. the evidence communicated by the other participants.",
+    "Look for:\n- hard constraints,\n- contradictions,\n- newly communicated evidence,\n- evidence that changes the feasibility of an option.",
+    "Contribute the most useful non-redundant evidence you can.\nIf new evidence changes your previous judgment, update it.\nDo not follow or repeat a majority opinion unless the evidence supports it.",
+    "Keep the public response concise, one or two sentences.\nDo not expose hidden chain-of-thought. State only the relevant evidence and its decision implication.\n%extra%"
+  ],
+  "vote_prompt": [
+    "Previous messages from other people:\n%group_discussion%",
+    "Re-evaluate the decision from scratch using your own information and the discussion.\nDo not anchor on your initial vote or on the majority opinion.",
+    "Compare every candidate.\nPrioritize explicit feasibility constraints over soft benefits.\nUse concrete evidence rather than repeated opinions.",
+    "In the rationale, briefly state:\n- the decisive evidence supporting your selected option\n- the key reason each major alternative should not be selected",
+    "Please decide and provide your rationale in the following JSON format:\n{\n    \"vote\": <A string, %possible_answers%>,\n    \"rationale\": <A string, representing your rationale>\n}"
+  ],
+  "generation_prompt": null
+}

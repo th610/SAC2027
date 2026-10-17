@@ -1,0 +1,27 @@
+{
+  "system_prompt": [
+    "%description%",
+    "You have received the following information. Notice that the order of these facts is randomly shuffled; the order does not indicate importance or relationship. Please reason carefully:\n%information%",
+    "Keep your response concise, just one or two sentences. %extra%"
+  ],
+  "first_user_prompt": [
+    "You are the first to speak."
+  ],
+  "user_prompt": [
+    "Previous messages from other people:\n%messages%",
+    "It is your turn to speak. %extra%"
+  ],
+  "first_vote_prompt": [
+    "Please decide and provide your rationale in the following JSON format:\n{\n    \"vote\": <A string, %possible_answers%>,\n    \"rationale\": <A string, representing your rationale>\n}"
+  ],
+  "vote_prompt": [
+    "Previous messages from other people:\n%group_discussion%",
+    "Please decide and provide your rationale in the following JSON format:\n{\n    \"vote\": <A string, %possible_answers%>,\n    \"rationale\": <A string, representing your rationale>\n}"
+  ],
+  "generation_prompt": [
+    "Create a Hidden Profile group decision task.",
+    "Task structure:\n- Everyone sees the same scenario and shared facts.\n- Each participant also receives one unique hidden fact that no one else has.\n- Shared facts should pull participants toward a plausible wrong option.\n- Shared facts plus any single hidden fact should still be insufficient.\n- Pooling all hidden facts should make exactly one option correct.",
+    "Return only JSON with this shape:\n{\n    \"name\": \"short_snake_case_name\",\n    \"description\": \"Scenario text shown to all participants.\",\n    \"shared_information\": [\"Shared fact 1\", \"Shared fact 2\"],\n    \"hidden_information\": [\"Hidden fact for participant 1\", \"Hidden fact for participant 2\"],\n    \"possible_answers\": [\"Option A\", \"Option B\", \"Option C\"],\n    \"correct_answer\": \"Option A\",\n    \"rationale\": \"Brief explanation of why this is a valid Hidden Profile task.\"\n}",
+    "Design rules:\n- Include at least three possible answers.\n- Include one hidden fact per participant.\n- Exactly one answer must be correct.\n- Every hidden fact must matter.\n- The correct answer must be one of the possible answers."
+  ]
+}

@@ -1,0 +1,15 @@
+condition,wrong_to_correct,correct_to_wrong,correct_to_correct,wrong_to_wrong
+gpt_md,16,0,1,48
+gpt_eda,45,1,0,19
+gpt_sed,53,0,4,8
+gpt_sed_fresh,54,0,4,7
+gpt_eda_update,39,0,2,24
+gpt_sed_cumulative,50,0,4,11
+gpt_sed_minus_a1,49,1,1,14
+gpt_sed_minus_a2,47,0,5,13
+qwen_md,12,2,3,48
+qwen_eda,36,5,0,24
+qwen_sed,56,0,4,5
+gemini_md,16,1,8,40
+gemini_eda,23,5,4,33
+gemini_sed,53,1,5,6

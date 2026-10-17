@@ -1,0 +1,21 @@
+{
+  "exchange_prompt": [
+    "Paper-based Structured Communication Protocol adaptation: Exchange stage {exchange_number} of 2.",
+    "Public discussion so far:\n{public_transcript}",
+    "The initial group front-runner, determined from the pre-discussion votes and held fixed for both Exchange stages, is {front_runner}.",
+    "Contribute 1 or 2 concrete, decision-relevant facts available to you. Then give one evidence-based reason why the current front-runner may be incorrect.",
+    "Do not invent facts. Do not reveal every fact mechanically. Keep your public message concise (one or two sentences). Do not give private chain-of-thought."
+  ],
+  "decide_prompt": [
+    "Paper-based Structured Communication Protocol adaptation: Decide stage.",
+    "Complete public discussion so far:\n{public_transcript}",
+    "Summarize the strongest evidence bearing on the available candidates and state the main uncertainty that remains.",
+    "Do not add facts that are not available to you or mechanically disclose all your information. Do not vote in this message. Keep it concise (one or two sentences); do not provide private chain-of-thought."
+  ],
+  "protocol_version": "paper_structured_protocol_adaptation_v1",
+  "notes": [
+    "These stage prompts operationalize the published paper's prose description; they are not claimed to be the authors' verbatim prompts.",
+    "The first-seen plurality among initial votes defines a fixed initial front-runner reference for both Exchange rounds; this is an implementation choice because the public protocol description does not specify how front-runner is computed or updated.",
+    "Decide is one public summary generation per agent. The subsequent independent final vote uses the existing V1 vote prompt and parser as the evaluation step."
+  ]
+}

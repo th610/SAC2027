@@ -1,0 +1,16 @@
+{
+  "runs_checked": 14,
+  "task_records_checked": 910,
+  "same_gold_options_agents_assignments": true,
+  "source_checksum_validation": true,
+  "correct_count_mismatches": {},
+  "paper_tables_1_to_6": "see TABLE_AUDIT.md; table values checked against supplied anonymous manuscript",
+  "qwen_eda_recovery_usage": {
+    "api_attempts": 3,
+    "prompt_tokens": 1527,
+    "completion_tokens": 309,
+    "total_tokens": 1836
+  },
+  "analysis_script_sha256": "f5a5a6e8bccf796cef770c20ca9b00b1957250a7467f5e94f9f663a8c5468d58",
+  "no_model_calls": true
+}

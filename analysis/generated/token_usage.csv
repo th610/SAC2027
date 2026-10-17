@@ -1,0 +1,15 @@
+condition,tasks,tasks_missing_numeric_usage,prompt_tokens,completion_tokens,total_tokens,additional_recovery_api_attempts,source
+gpt_md,65,65,not recorded,not recorded,not recorded,0,not recorded
+gpt_eda,65,0,1716147,71662,1787809,0,saved API/vLLM usage fields; Qwen MD/SED total is prompt + completion
+gpt_sed,65,65,not recorded,not recorded,not recorded,0,not recorded
+gpt_sed_fresh,65,0,1690615,76275,1766890,0,saved API/vLLM usage fields; Qwen MD/SED total is prompt + completion
+gpt_eda_update,65,0,1977209,85698,2062907,0,saved API/vLLM usage fields; Qwen MD/SED total is prompt + completion
+gpt_sed_cumulative,65,0,2137941,78242,2216183,0,saved API/vLLM usage fields; Qwen MD/SED total is prompt + completion
+gpt_sed_minus_a1,65,0,1597558,76758,1674316,0,saved API/vLLM usage fields; Qwen MD/SED total is prompt + completion
+gpt_sed_minus_a2,65,0,1596253,74247,1670500,0,saved API/vLLM usage fields; Qwen MD/SED total is prompt + completion
+qwen_md,65,0,910857,57987,968844,0,saved API/vLLM usage fields; Qwen MD/SED total is prompt + completion
+qwen_eda,65,0,1609708,67872,1677580,3,saved API usage fields plus three separately logged parse-recovery attempts
+qwen_sed,65,0,1540384,64246,1604630,0,saved API/vLLM usage fields; Qwen MD/SED total is prompt + completion
+gemini_md,65,0,913866,59598,973464,0,saved API/vLLM usage fields; Qwen MD/SED total is prompt + completion
+gemini_eda,65,0,1772463,76753,1849216,0,saved API/vLLM usage fields; Qwen MD/SED total is prompt + completion
+gemini_sed,65,0,1633058,70248,1703306,0,saved API/vLLM usage fields; Qwen MD/SED total is prompt + completion

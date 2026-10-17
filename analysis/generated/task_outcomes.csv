@@ -1,0 +1,911 @@
+condition,task_id,gold,initial_plurality,initial_correct,initial_tie,final_plurality,final_correct,final_tie
+gpt_md,1,West City,East Town,0,0,East Town,0,0
+gpt_md,2,North Hill,West City,0,0,West City,0,0
+gpt_md,3,East Town,West City,0,0,West City,0,0
+gpt_md,4,Mr. X's son,Mr. X,0,0,Mr. X,0,0
+gpt_md,5,Roberts,Jones,0,0,Stevens,0,1
+gpt_md,6,Candidate C,Candidate B,0,1,Candidate A,0,0
+gpt_md,7,Starlight Incorporated,Franklin Enterprises,0,1,Cape Industries,0,1
+gpt_md,8,Eddie Sullivan,Billy Prentice,0,1,Billy Prentice,0,1
+gpt_md,9,Hospital A,Hospital B,0,0,Hospital C,0,0
+gpt_md,10,Warehouse C,Warehouse B,0,0,Warehouse C,1,0
+gpt_md,11,School Gym,City Library,0,0,City Library,0,0
+gpt_md,12,Green Valley,Red Lake,0,0,Green Valley,1,0
+gpt_md,13,Lab Gamma,Lab Alpha,0,0,Lab Alpha,0,0
+gpt_md,14,Restaurant C,Restaurant B,0,0,Restaurant C,1,0
+gpt_md,15,Downtown Police Station,University Library,0,0,University Library,0,0
+gpt_md,16,Charlie,Bravo,0,0,Bravo,0,0
+gpt_md,17,Plateau Camp (D),Riverbank Clearing (B),0,0,Riverbank Clearing (B),0,0
+gpt_md,18,Camp Pinecone,Camp Summit,0,0,Camp Summit,0,0
+gpt_md,19,Oakridge Library,Oakridge Library,1,1,Oakridge Library,1,0
+gpt_md,20,Shelter Alpha,Shelter Beta,0,0,Shelter Beta,0,0
+gpt_md,21,Celestia Airstrip,Aurora Train Station,0,1,Borealis Bus Terminal,0,0
+gpt_md,22,Main Base,Retreat Camp,0,1,Rescue Outpost,0,0
+gpt_md,23,Grand Oak Hotel,Lakeview Resort,0,1,Grand Oak Hotel,1,0
+gpt_md,24,City HQ Facility,Valley Research Annex,0,0,Mountain Server Farm,0,0
+gpt_md,25,Station Delta,Station Alpha,0,0,Station Alpha,0,0
+gpt_md,26,Town Hall,University Science Library (USL),0,0,Hilltop Chapel,0,0
+gpt_md,27,Pine Ridge,Maple Valley,0,0,Maple Valley,0,0
+gpt_md,28,Forest Trail,River Route,0,0,Forest Trail,1,0
+gpt_md,29,Riverside Park,Summerfield School,0,0,Riverside Park,1,0
+gpt_md,30,Skylake Ventures,Peak Capital,0,0,Skylake Ventures,1,0
+gpt_md,31,Gamma Lake,Alpha Ridge,0,1,Beta Valley,0,0
+gpt_md,32,Route C (Old Supply Road),Route B (Frozen Lake),0,0,Route A (Mountain Pass),0,0
+gpt_md,33,Lab Nova,Lab Gemini,0,0,Lab Atlas,0,0
+gpt_md,34,Cedar Station,Maple Lodge,0,0,Pine Retreat,0,0
+gpt_md,35,Red House,Green House,0,1,Blue House,0,0
+gpt_md,36,Datacenter Gamma,Datacenter Beta,0,1,Datacenter Alpha,0,0
+gpt_md,37,Hilltop Storage,Bayview Warehouse,0,1,Bayview Warehouse,0,0
+gpt_md,38,Site C (Hilltop park),Site A (Open field with tent),0,0,Site A (Open field with tent),0,1
+gpt_md,39,LZ Alpha,LZ Bravo,0,0,LZ Charlie,0,0
+gpt_md,40,Meadow Valley General,Riverbend Medical Center,0,0,Riverbend Medical Center,0,0
+gpt_md,41,Mars Colony,Lunar Base,0,0,Lunar Base,0,0
+gpt_md,42,Eagle Ridge Lodge,Riverside Shelter,0,1,Eagle Ridge Lodge,1,0
+gpt_md,43,Canyon Depot,Beacon Post,0,0,Canyon Depot,1,0
+gpt_md,44,Hilltop Retreat,Riverside Conference Center,0,0,Hilltop Retreat,1,0
+gpt_md,45,Lab Gamma,Lab Beta,0,0,Lab Gamma,1,0
+gpt_md,46,Riverside School Gym,Downtown Library Hall,0,0,Riverside School Gym,1,0
+gpt_md,47,CEO's Office,Storage Room,0,0,Storage Room,0,0
+gpt_md,48,Lab 2 Bench,Cold Storage B,0,0,Cold Storage B,0,0
+gpt_md,49,Hilltop Cabin,Riverside Station,0,0,Riverside Station,0,0
+gpt_md,50,Conference Room Gamma,Conference Room Beta,0,0,Conference Room Alpha,0,0
+gpt_md,51,Charlie Storage,Alpha Storage,0,0,Alpha Storage,0,0
+gpt_md,52,Green Valley Outpost,Red Cliff Lodge,0,1,Green Valley Outpost,1,0
+gpt_md,53,Mountain Ridge,Ocean Bluff,0,0,Ocean Bluff,0,0
+gpt_md,54,Site C,Site B,0,1,Site A,0,1
+gpt_md,55,Hospital,School,0,0,Hospital,1,0
+gpt_md,56,The Government Records Vault,The City Art Museum's Disaster-Proof Storage,0,0,The City Art Museum's Disaster-Proof Storage,0,0
+gpt_md,57,Site C,Site B,0,0,Site C,1,0
+gpt_md,58,The Old Museum Basement,City Hall Annex,0,0,Riverside Conference Center,0,0
+gpt_md,59,Bravo Moving Co.,Charlie’s Transport,0,0,Bravo Moving Co.,1,0
+gpt_md,60,Area A (the Oak Woods),Area C (the Meadow),0,0,Area C (the Meadow),0,0
+gpt_md,61,Communication Tower,Main Generator Room,0,0,Main Generator Room,0,0
+gpt_md,62,Option C: Logistics software company,Option B: AI hardware startup,0,0,Option B: AI hardware startup,0,0
+gpt_md,63,Garden Hall,River Pavilion,0,0,River Pavilion,0,0
+gpt_md,64,Airborne Toxin from HVAC,Cafeteria Food,0,0,Cafeteria Food,0,0
+gpt_md,65,School Gym,Pharmacy,0,1,Clinic,0,0
+gpt_eda,1,West City,East Town,0,0,West City,1,0
+gpt_eda,2,North Hill,West City,0,0,East Town,0,0
+gpt_eda,3,East Town,West City,0,0,West City,0,0
+gpt_eda,4,Mr. X's son,Mr. X,0,0,Mr. Z,0,0
+gpt_eda,5,Roberts,Jones,0,0,Stevens,0,0
+gpt_eda,6,Candidate C,Candidate B,0,1,Candidate D,0,0
+gpt_eda,7,Starlight Incorporated,Franklin Enterprises,0,1,Cape Industries,0,0
+gpt_eda,8,Eddie Sullivan,Billy Prentice,0,1,Billy Prentice,0,0
+gpt_eda,9,Hospital A,Hospital B,0,0,Hospital A,1,0
+gpt_eda,10,Warehouse C,Warehouse B,0,0,Warehouse C,1,0
+gpt_eda,11,School Gym,City Library,0,0,School Gym,1,0
+gpt_eda,12,Green Valley,Red Lake,0,0,Green Valley,1,0
+gpt_eda,13,Lab Gamma,Lab Alpha,0,0,Lab Gamma,1,0
+gpt_eda,14,Restaurant C,Restaurant B,0,0,Restaurant C,1,0
+gpt_eda,15,Downtown Police Station,University Library,0,0,Downtown Police Station,1,0
+gpt_eda,16,Charlie,Bravo,0,1,Charlie,1,0
+gpt_eda,17,Plateau Camp (D),Riverbank Clearing (B),0,0,Hilltop Overlook (C),0,0
+gpt_eda,18,Camp Pinecone,Camp Summit,0,0,Camp Pinecone,1,0
+gpt_eda,19,Oakridge Library,Oakridge Library,1,1,Greenfield High School,0,0
+gpt_eda,20,Shelter Alpha,Shelter Beta,0,0,Shelter Alpha,1,0
+gpt_eda,21,Celestia Airstrip,Aurora Train Station,0,1,Borealis Bus Terminal,0,0
+gpt_eda,22,Main Base,Retreat Camp,0,1,Rescue Outpost,0,0
+gpt_eda,23,Grand Oak Hotel,Lakeview Resort,0,1,Grand Oak Hotel,1,0
+gpt_eda,24,City HQ Facility,Valley Research Annex,0,0,City HQ Facility,1,0
+gpt_eda,25,Station Delta,Station Alpha,0,0,Station Charlie,0,0
+gpt_eda,26,Town Hall,University Science Library (USL),0,0,Town Hall,1,0
+gpt_eda,27,Pine Ridge,Maple Valley,0,0,Pine Ridge,1,0
+gpt_eda,28,Forest Trail,River Route,0,0,Forest Trail,1,0
+gpt_eda,29,Riverside Park,Summerfield School,0,0,Riverside Park,1,0
+gpt_eda,30,Skylake Ventures,Peak Capital,0,0,Skylake Ventures,1,0
+gpt_eda,31,Gamma Lake,Alpha Ridge,0,1,Alpha Ridge,0,0
+gpt_eda,32,Route C (Old Supply Road),Route B (Frozen Lake),0,0,Route C (Old Supply Road),1,0
+gpt_eda,33,Lab Nova,Lab Gemini,0,0,Lab Atlas,0,0
+gpt_eda,34,Cedar Station,Maple Lodge,0,0,Cedar Station,1,0
+gpt_eda,35,Red House,Green House,0,1,Red House,1,0
+gpt_eda,36,Datacenter Gamma,Datacenter Beta,0,1,Datacenter Gamma,1,0
+gpt_eda,37,Hilltop Storage,Central Depot,0,0,Bayview Warehouse,0,0
+gpt_eda,38,Site C (Hilltop park),Site A (Open field with tent),0,0,Site D (Library),0,0
+gpt_eda,39,LZ Alpha,LZ Bravo,0,0,LZ Alpha,1,0
+gpt_eda,40,Meadow Valley General,Riverbend Medical Center,0,0,Meadow Valley General,1,0
+gpt_eda,41,Mars Colony,Lunar Base,0,0,Mars Colony,1,0
+gpt_eda,42,Eagle Ridge Lodge,Riverside Shelter,0,1,Eagle Ridge Lodge,1,0
+gpt_eda,43,Canyon Depot,Beacon Post,0,0,Canyon Depot,1,0
+gpt_eda,44,Hilltop Retreat,Riverside Conference Center,0,0,Hilltop Retreat,1,0
+gpt_eda,45,Lab Gamma,Lab Beta,0,0,Lab Gamma,1,0
+gpt_eda,46,Riverside School Gym,Hillside Community Center,0,1,Downtown Library Hall,0,0
+gpt_eda,47,CEO's Office,Storage Room,0,0,CEO's Office,1,0
+gpt_eda,48,Lab 2 Bench,Cold Storage B,0,0,Decontamination Room,0,0
+gpt_eda,49,Hilltop Cabin,Riverside Station,0,0,Hilltop Cabin,1,0
+gpt_eda,50,Conference Room Gamma,Conference Room Beta,0,0,Conference Room Gamma,1,0
+gpt_eda,51,Charlie Storage,Alpha Storage,0,0,Charlie Storage,1,0
+gpt_eda,52,Green Valley Outpost,Red Cliff Lodge,0,1,Green Valley Outpost,1,0
+gpt_eda,53,Mountain Ridge,Ocean Bluff,0,0,Mountain Ridge,1,0
+gpt_eda,54,Site C,Site B,0,1,Site A,0,0
+gpt_eda,55,Hospital,School,0,0,Hospital,1,1
+gpt_eda,56,The Government Records Vault,The City Art Museum's Disaster-Proof Storage,0,0,The University Science Building's Secure Lab,0,0
+gpt_eda,57,Site C,Site B,0,0,Site C,1,0
+gpt_eda,58,The Old Museum Basement,City Hall Annex,0,0,The Old Museum Basement,1,0
+gpt_eda,59,Bravo Moving Co.,Charlie’s Transport,0,0,Bravo Moving Co.,1,0
+gpt_eda,60,Area A (the Oak Woods),Area C (the Meadow),0,0,Area A (the Oak Woods),1,0
+gpt_eda,61,Communication Tower,Main Generator Room,0,0,Communication Tower,1,0
+gpt_eda,62,Option C: Logistics software company,Option B: AI hardware startup,0,1,Option C: Logistics software company,1,0
+gpt_eda,63,Garden Hall,River Pavilion,0,0,Garden Hall,1,0
+gpt_eda,64,Airborne Toxin from HVAC,Cafeteria Food,0,0,Airborne Toxin from HVAC,1,0
+gpt_eda,65,School Gym,Clinic,0,0,School Gym,1,0
+gpt_sed,1,West City,East Town,0,0,East Town,0,0
+gpt_sed,2,North Hill,West City,0,0,North Hill,1,0
+gpt_sed,3,East Town,West City,0,0,West City,0,0
+gpt_sed,4,Mr. X's son,Mr. X,0,0,Mr. X,0,0
+gpt_sed,5,Roberts,Jones,0,0,Roberts,1,0
+gpt_sed,6,Candidate C,Candidate D,0,0,Candidate D,0,0
+gpt_sed,7,Starlight Incorporated,Cape Industries,0,0,Starlight Incorporated,1,0
+gpt_sed,8,Eddie Sullivan,Mickey Malone,0,0,Billy Prentice,0,0
+gpt_sed,9,Hospital A,Hospital B,0,1,Hospital A,1,0
+gpt_sed,10,Warehouse C,Warehouse B,0,0,Warehouse C,1,0
+gpt_sed,11,School Gym,City Library,0,0,School Gym,1,0
+gpt_sed,12,Green Valley,Red Lake,0,1,Green Valley,1,0
+gpt_sed,13,Lab Gamma,Lab Alpha,0,1,Lab Gamma,1,0
+gpt_sed,14,Restaurant C,Restaurant B,0,0,Restaurant C,1,0
+gpt_sed,15,Downtown Police Station,University Library,0,0,Downtown Police Station,1,0
+gpt_sed,16,Charlie,Bravo,0,1,Charlie,1,0
+gpt_sed,17,Plateau Camp (D),Riverbank Clearing (B),0,0,Plateau Camp (D),1,0
+gpt_sed,18,Camp Pinecone,Camp Summit,0,0,Camp Pinecone,1,0
+gpt_sed,19,Oakridge Library,Oakridge Library,1,0,Oakridge Library,1,0
+gpt_sed,20,Shelter Alpha,Shelter Beta,0,0,Shelter Alpha,1,0
+gpt_sed,21,Celestia Airstrip,Borealis Bus Terminal,0,0,Celestia Airstrip,1,0
+gpt_sed,22,Main Base,Retreat Camp,0,1,Main Base,1,0
+gpt_sed,23,Grand Oak Hotel,Lakeview Resort,0,1,Grand Oak Hotel,1,0
+gpt_sed,24,City HQ Facility,Valley Research Annex,0,0,City HQ Facility,1,0
+gpt_sed,25,Station Delta,Station Alpha,0,0,Station Delta,1,0
+gpt_sed,26,Town Hall,University Science Library (USL),0,0,Town Hall,1,0
+gpt_sed,27,Pine Ridge,Pine Ridge,1,1,Pine Ridge,1,0
+gpt_sed,28,Forest Trail,River Route,0,0,Forest Trail,1,0
+gpt_sed,29,Riverside Park,Summerfield School,0,1,Riverside Park,1,0
+gpt_sed,30,Skylake Ventures,Peak Capital,0,0,Skylake Ventures,1,0
+gpt_sed,31,Gamma Lake,Alpha Ridge,0,0,Alpha Ridge,0,0
+gpt_sed,32,Route C (Old Supply Road),Route A (Mountain Pass),0,1,Route C (Old Supply Road),1,0
+gpt_sed,33,Lab Nova,Lab Gemini,0,0,Lab Nova,1,0
+gpt_sed,34,Cedar Station,Maple Lodge,0,0,Cedar Station,1,0
+gpt_sed,35,Red House,Green House,0,1,Red House,1,0
+gpt_sed,36,Datacenter Gamma,Datacenter Beta,0,1,Datacenter Gamma,1,0
+gpt_sed,37,Hilltop Storage,Bayview Warehouse,0,1,Hilltop Storage,1,0
+gpt_sed,38,Site C (Hilltop park),Site A (Open field with tent),0,0,Site C (Hilltop park),1,0
+gpt_sed,39,LZ Alpha,LZ Bravo,0,0,LZ Alpha,1,0
+gpt_sed,40,Meadow Valley General,Riverbend Medical Center,0,0,Meadow Valley General,1,0
+gpt_sed,41,Mars Colony,Lunar Base,0,0,Mars Colony,1,0
+gpt_sed,42,Eagle Ridge Lodge,Riverside Shelter,0,1,Eagle Ridge Lodge,1,0
+gpt_sed,43,Canyon Depot,Beacon Post,0,1,Canyon Depot,1,0
+gpt_sed,44,Hilltop Retreat,Riverside Conference Center,0,0,Hilltop Retreat,1,0
+gpt_sed,45,Lab Gamma,Lab Beta,0,0,Lab Gamma,1,0
+gpt_sed,46,Riverside School Gym,Downtown Library Hall,0,0,Riverside School Gym,1,0
+gpt_sed,47,CEO's Office,CEO's Office,1,0,CEO's Office,1,0
+gpt_sed,48,Lab 2 Bench,Cold Storage B,0,0,Decontamination Room,0,0
+gpt_sed,49,Hilltop Cabin,Hilltop Cabin,1,1,Hilltop Cabin,1,0
+gpt_sed,50,Conference Room Gamma,Conference Room Beta,0,0,Conference Room Gamma,1,0
+gpt_sed,51,Charlie Storage,Alpha Storage,0,1,Charlie Storage,1,0
+gpt_sed,52,Green Valley Outpost,Blue Lake Cabin,0,0,Green Valley Outpost,1,0
+gpt_sed,53,Mountain Ridge,Ocean Bluff,0,0,Forest Edge,0,1
+gpt_sed,54,Site C,Site B,0,1,Site C,1,0
+gpt_sed,55,Hospital,School,0,0,Hospital,1,0
+gpt_sed,56,The Government Records Vault,The City Art Museum's Disaster-Proof Storage,0,0,The Government Records Vault,1,0
+gpt_sed,57,Site C,Site B,0,0,Site C,1,0
+gpt_sed,58,The Old Museum Basement,City Hall Annex,0,0,The Old Museum Basement,1,0
+gpt_sed,59,Bravo Moving Co.,Charlie’s Transport,0,0,Bravo Moving Co.,1,0
+gpt_sed,60,Area A (the Oak Woods),Area C (the Meadow),0,1,Area A (the Oak Woods),1,0
+gpt_sed,61,Communication Tower,Main Generator Room,0,0,Communication Tower,1,0
+gpt_sed,62,Option C: Logistics software company,Option B: AI hardware startup,0,1,Option C: Logistics software company,1,0
+gpt_sed,63,Garden Hall,River Pavilion,0,0,Garden Hall,1,0
+gpt_sed,64,Airborne Toxin from HVAC,Cafeteria Food,0,0,Airborne Toxin from HVAC,1,0
+gpt_sed,65,School Gym,Clinic,0,0,School Gym,1,0
+gpt_sed_fresh,1,West City,East Town,0,0,West City,1,0
+gpt_sed_fresh,2,North Hill,West City,0,0,North Hill,1,1
+gpt_sed_fresh,3,East Town,West City,0,0,East Town,1,0
+gpt_sed_fresh,4,Mr. X's son,Mr. X,0,0,Mr. X,0,0
+gpt_sed_fresh,5,Roberts,Jones,0,0,Roberts,1,0
+gpt_sed_fresh,6,Candidate C,Candidate D,0,0,Candidate C,1,0
+gpt_sed_fresh,7,Starlight Incorporated,Cape Industries,0,0,Cape Industries,0,0
+gpt_sed_fresh,8,Eddie Sullivan,Billy Prentice,0,1,Billy Prentice,0,0
+gpt_sed_fresh,9,Hospital A,Hospital B,0,1,Hospital A,1,0
+gpt_sed_fresh,10,Warehouse C,Warehouse B,0,0,Warehouse C,1,0
+gpt_sed_fresh,11,School Gym,City Library,0,0,School Gym,1,0
+gpt_sed_fresh,12,Green Valley,Red Lake,0,1,Green Valley,1,0
+gpt_sed_fresh,13,Lab Gamma,Lab Alpha,0,1,Lab Gamma,1,0
+gpt_sed_fresh,14,Restaurant C,Restaurant B,0,0,Restaurant C,1,0
+gpt_sed_fresh,15,Downtown Police Station,University Library,0,0,Downtown Police Station,1,0
+gpt_sed_fresh,16,Charlie,Bravo,0,1,Charlie,1,0
+gpt_sed_fresh,17,Plateau Camp (D),Riverbank Clearing (B),0,0,Riverbank Clearing (B),0,0
+gpt_sed_fresh,18,Camp Pinecone,Camp Summit,0,0,Camp Pinecone,1,0
+gpt_sed_fresh,19,Oakridge Library,Oakridge Library,1,0,Oakridge Library,1,0
+gpt_sed_fresh,20,Shelter Alpha,Shelter Gamma,0,1,Shelter Alpha,1,0
+gpt_sed_fresh,21,Celestia Airstrip,Aurora Train Station,0,1,Celestia Airstrip,1,0
+gpt_sed_fresh,22,Main Base,Retreat Camp,0,1,Main Base,1,0
+gpt_sed_fresh,23,Grand Oak Hotel,Lakeview Resort,0,1,Grand Oak Hotel,1,0
+gpt_sed_fresh,24,City HQ Facility,Valley Research Annex,0,0,City HQ Facility,1,0
+gpt_sed_fresh,25,Station Delta,Station Alpha,0,0,Station Delta,1,0
+gpt_sed_fresh,26,Town Hall,University Science Library (USL),0,0,Town Hall,1,0
+gpt_sed_fresh,27,Pine Ridge,Pine Ridge,1,1,Pine Ridge,1,0
+gpt_sed_fresh,28,Forest Trail,River Route,0,0,Forest Trail,1,0
+gpt_sed_fresh,29,Riverside Park,Summerfield School,0,1,Riverside Park,1,0
+gpt_sed_fresh,30,Skylake Ventures,Peak Capital,0,0,Skylake Ventures,1,0
+gpt_sed_fresh,31,Gamma Lake,Alpha Ridge,0,1,Gamma Lake,1,0
+gpt_sed_fresh,32,Route C (Old Supply Road),Route A (Mountain Pass),0,1,Route C (Old Supply Road),1,0
+gpt_sed_fresh,33,Lab Nova,Lab Gemini,0,0,Lab Nova,1,0
+gpt_sed_fresh,34,Cedar Station,Maple Lodge,0,0,Cedar Station,1,0
+gpt_sed_fresh,35,Red House,Green House,0,1,Red House,1,0
+gpt_sed_fresh,36,Datacenter Gamma,Datacenter Beta,0,1,Datacenter Gamma,1,0
+gpt_sed_fresh,37,Hilltop Storage,Bayview Warehouse,0,1,Hilltop Storage,1,0
+gpt_sed_fresh,38,Site C (Hilltop park),Site D (Library),0,0,Site C (Hilltop park),1,0
+gpt_sed_fresh,39,LZ Alpha,LZ Bravo,0,0,LZ Alpha,1,0
+gpt_sed_fresh,40,Meadow Valley General,Riverbend Medical Center,0,0,Meadow Valley General,1,0
+gpt_sed_fresh,41,Mars Colony,Lunar Base,0,0,Mars Colony,1,0
+gpt_sed_fresh,42,Eagle Ridge Lodge,Riverside Shelter,0,1,Eagle Ridge Lodge,1,0
+gpt_sed_fresh,43,Canyon Depot,Beacon Post,0,1,Beacon Post,0,0
+gpt_sed_fresh,44,Hilltop Retreat,Riverside Conference Center,0,0,Hilltop Retreat,1,0
+gpt_sed_fresh,45,Lab Gamma,Lab Beta,0,0,Lab Gamma,1,0
+gpt_sed_fresh,46,Riverside School Gym,Downtown Library Hall,0,0,Riverside School Gym,1,0
+gpt_sed_fresh,47,CEO's Office,CEO's Office,1,0,CEO's Office,1,0
+gpt_sed_fresh,48,Lab 2 Bench,Cold Storage B,0,0,Lab 2 Bench,1,0
+gpt_sed_fresh,49,Hilltop Cabin,Riverside Station,0,0,Hilltop Cabin,1,0
+gpt_sed_fresh,50,Conference Room Gamma,Conference Room Beta,0,0,Conference Room Gamma,1,0
+gpt_sed_fresh,51,Charlie Storage,Alpha Storage,0,1,Charlie Storage,1,0
+gpt_sed_fresh,52,Green Valley Outpost,Red Cliff Lodge,0,1,Green Valley Outpost,1,0
+gpt_sed_fresh,53,Mountain Ridge,Ocean Bluff,0,0,River Valley,0,0
+gpt_sed_fresh,54,Site C,Site B,0,1,Site C,1,0
+gpt_sed_fresh,55,Hospital,School,0,0,Hospital,1,0
+gpt_sed_fresh,56,The Government Records Vault,The City Art Museum's Disaster-Proof Storage,0,0,The Government Records Vault,1,0
+gpt_sed_fresh,57,Site C,Site B,0,0,Site C,1,0
+gpt_sed_fresh,58,The Old Museum Basement,City Hall Annex,0,0,The Old Museum Basement,1,0
+gpt_sed_fresh,59,Bravo Moving Co.,Charlie’s Transport,0,0,Bravo Moving Co.,1,0
+gpt_sed_fresh,60,Area A (the Oak Woods),Area C (the Meadow),0,1,Area A (the Oak Woods),1,0
+gpt_sed_fresh,61,Communication Tower,Main Generator Room,0,0,Communication Tower,1,0
+gpt_sed_fresh,62,Option C: Logistics software company,Option B: AI hardware startup,0,1,Option C: Logistics software company,1,0
+gpt_sed_fresh,63,Garden Hall,Garden Hall,1,1,Garden Hall,1,0
+gpt_sed_fresh,64,Airborne Toxin from HVAC,Cafeteria Food,0,0,Cafeteria Food,0,0
+gpt_sed_fresh,65,School Gym,Clinic,0,0,School Gym,1,0
+gpt_eda_update,1,West City,East Town,0,0,East Town,0,0
+gpt_eda_update,2,North Hill,West City,0,0,East Town,0,0
+gpt_eda_update,3,East Town,West City,0,0,West City,0,0
+gpt_eda_update,4,Mr. X's son,Mr. X,0,0,Mr. Z,0,0
+gpt_eda_update,5,Roberts,Jones,0,0,Roberts,1,0
+gpt_eda_update,6,Candidate C,Candidate B,0,1,Candidate A,0,0
+gpt_eda_update,7,Starlight Incorporated,Franklin Enterprises,0,1,Franklin Enterprises,0,0
+gpt_eda_update,8,Eddie Sullivan,Billy Prentice,0,1,Eddie Sullivan,1,0
+gpt_eda_update,9,Hospital A,Hospital B,0,0,Hospital A,1,0
+gpt_eda_update,10,Warehouse C,Warehouse B,0,0,Warehouse C,1,0
+gpt_eda_update,11,School Gym,City Library,0,0,School Gym,1,0
+gpt_eda_update,12,Green Valley,Red Lake,0,0,Green Valley,1,0
+gpt_eda_update,13,Lab Gamma,Lab Alpha,0,0,Lab Alpha,0,0
+gpt_eda_update,14,Restaurant C,Restaurant B,0,0,Restaurant C,1,0
+gpt_eda_update,15,Downtown Police Station,University Library,0,0,City Bank,0,0
+gpt_eda_update,16,Charlie,Bravo,0,1,Charlie,1,0
+gpt_eda_update,17,Plateau Camp (D),Riverbank Clearing (B),0,0,Riverbank Clearing (B),0,0
+gpt_eda_update,18,Camp Pinecone,Camp Summit,0,0,Camp Pinecone,1,0
+gpt_eda_update,19,Oakridge Library,Oakridge Library,1,1,Oakridge Library,1,0
+gpt_eda_update,20,Shelter Alpha,Shelter Beta,0,0,Shelter Alpha,1,0
+gpt_eda_update,21,Celestia Airstrip,Aurora Train Station,0,1,Celestia Airstrip,1,0
+gpt_eda_update,22,Main Base,Retreat Camp,0,1,Main Base,1,0
+gpt_eda_update,23,Grand Oak Hotel,Lakeview Resort,0,1,Grand Oak Hotel,1,0
+gpt_eda_update,24,City HQ Facility,Valley Research Annex,0,0,City HQ Facility,1,0
+gpt_eda_update,25,Station Delta,Station Alpha,0,0,Station Delta,1,0
+gpt_eda_update,26,Town Hall,University Science Library (USL),0,0,Town Hall,1,0
+gpt_eda_update,27,Pine Ridge,Maple Valley,0,0,Pine Ridge,1,0
+gpt_eda_update,28,Forest Trail,River Route,0,0,Mountain Pass,0,0
+gpt_eda_update,29,Riverside Park,Summerfield School,0,0,Riverside Park,1,0
+gpt_eda_update,30,Skylake Ventures,Peak Capital,0,0,Skylake Ventures,1,0
+gpt_eda_update,31,Gamma Lake,Alpha Ridge,0,1,Gamma Lake,1,0
+gpt_eda_update,32,Route C (Old Supply Road),Route B (Frozen Lake),0,0,Route A (Mountain Pass),0,0
+gpt_eda_update,33,Lab Nova,Lab Gemini,0,0,Lab Atlas,0,0
+gpt_eda_update,34,Cedar Station,Maple Lodge,0,0,Cedar Station,1,0
+gpt_eda_update,35,Red House,Green House,0,1,Red House,1,0
+gpt_eda_update,36,Datacenter Gamma,Datacenter Beta,0,0,Datacenter Alpha,0,0
+gpt_eda_update,37,Hilltop Storage,Central Depot,0,0,Hilltop Storage,1,0
+gpt_eda_update,38,Site C (Hilltop park),Site A (Open field with tent),0,0,Site C (Hilltop park),1,0
+gpt_eda_update,39,LZ Alpha,LZ Bravo,0,0,LZ Alpha,1,0
+gpt_eda_update,40,Meadow Valley General,Riverbend Medical Center,0,0,Meadow Valley General,1,0
+gpt_eda_update,41,Mars Colony,Lunar Base,0,0,Lunar Base,0,0
+gpt_eda_update,42,Eagle Ridge Lodge,Riverside Shelter,0,1,Eagle Ridge Lodge,1,0
+gpt_eda_update,43,Canyon Depot,Beacon Post,0,0,Canyon Depot,1,1
+gpt_eda_update,44,Hilltop Retreat,Riverside Conference Center,0,0,Hilltop Retreat,1,0
+gpt_eda_update,45,Lab Gamma,Lab Beta,0,0,Lab Gamma,1,1
+gpt_eda_update,46,Riverside School Gym,Hillside Community Center,0,1,Riverside School Gym,1,0
+gpt_eda_update,47,CEO's Office,CEO's Office,1,1,CEO's Office,1,0
+gpt_eda_update,48,Lab 2 Bench,Cold Storage B,0,0,Decontamination Room,0,0
+gpt_eda_update,49,Hilltop Cabin,Riverside Station,0,0,Hilltop Cabin,1,0
+gpt_eda_update,50,Conference Room Gamma,Conference Room Beta,0,0,Conference Room Beta,0,0
+gpt_eda_update,51,Charlie Storage,Alpha Storage,0,0,Charlie Storage,1,0
+gpt_eda_update,52,Green Valley Outpost,Red Cliff Lodge,0,1,Green Valley Outpost,1,0
+gpt_eda_update,53,Mountain Ridge,Ocean Bluff,0,0,Forest Edge,0,0
+gpt_eda_update,54,Site C,Site B,0,1,Site A,0,0
+gpt_eda_update,55,Hospital,School,0,0,Hospital,1,0
+gpt_eda_update,56,The Government Records Vault,The City Art Museum's Disaster-Proof Storage,0,0,The Government Records Vault,1,0
+gpt_eda_update,57,Site C,Site B,0,0,Site C,1,0
+gpt_eda_update,58,The Old Museum Basement,City Hall Annex,0,0,Riverside Conference Center,0,0
+gpt_eda_update,59,Bravo Moving Co.,Charlie’s Transport,0,0,Bravo Moving Co.,1,0
+gpt_eda_update,60,Area A (the Oak Woods),Area C (the Meadow),0,0,Area C (the Meadow),0,0
+gpt_eda_update,61,Communication Tower,Main Generator Room,0,0,Main Generator Room,0,0
+gpt_eda_update,62,Option C: Logistics software company,Option B: AI hardware startup,0,1,Option A: Biomedical startup,0,0
+gpt_eda_update,63,Garden Hall,River Pavilion,0,0,Mountain Lodge,0,0
+gpt_eda_update,64,Airborne Toxin from HVAC,Cafeteria Food,0,0,Cafeteria Food,0,0
+gpt_eda_update,65,School Gym,Clinic,0,0,School Gym,1,0
+gpt_sed_cumulative,1,West City,East Town,0,0,West City,1,0
+gpt_sed_cumulative,2,North Hill,West City,0,0,North Hill,1,0
+gpt_sed_cumulative,3,East Town,West City,0,0,East Town,1,0
+gpt_sed_cumulative,4,Mr. X's son,Mr. X,0,0,Mr. X,0,0
+gpt_sed_cumulative,5,Roberts,Jones,0,0,Roberts,1,0
+gpt_sed_cumulative,6,Candidate C,Candidate B,0,0,Candidate A,0,0
+gpt_sed_cumulative,7,Starlight Incorporated,Cape Industries,0,0,Cape Industries,0,0
+gpt_sed_cumulative,8,Eddie Sullivan,Billy Prentice,0,1,Billy Prentice,0,0
+gpt_sed_cumulative,9,Hospital A,Hospital B,0,1,Hospital A,1,0
+gpt_sed_cumulative,10,Warehouse C,Warehouse B,0,0,Warehouse C,1,0
+gpt_sed_cumulative,11,School Gym,City Library,0,0,City Library,0,0
+gpt_sed_cumulative,12,Green Valley,Red Lake,0,1,Green Valley,1,0
+gpt_sed_cumulative,13,Lab Gamma,Lab Alpha,0,1,Lab Beta,0,0
+gpt_sed_cumulative,14,Restaurant C,Restaurant B,0,0,Restaurant C,1,0
+gpt_sed_cumulative,15,Downtown Police Station,University Library,0,0,Downtown Police Station,1,0
+gpt_sed_cumulative,16,Charlie,Bravo,0,1,Charlie,1,0
+gpt_sed_cumulative,17,Plateau Camp (D),Riverbank Clearing (B),0,0,Plateau Camp (D),1,0
+gpt_sed_cumulative,18,Camp Pinecone,Camp Summit,0,0,Camp Pinecone,1,0
+gpt_sed_cumulative,19,Oakridge Library,Oakridge Library,1,0,Oakridge Library,1,0
+gpt_sed_cumulative,20,Shelter Alpha,Shelter Gamma,0,1,Shelter Alpha,1,0
+gpt_sed_cumulative,21,Celestia Airstrip,Aurora Train Station,0,1,Celestia Airstrip,1,0
+gpt_sed_cumulative,22,Main Base,Retreat Camp,0,1,Main Base,1,0
+gpt_sed_cumulative,23,Grand Oak Hotel,Lakeview Resort,0,1,Grand Oak Hotel,1,0
+gpt_sed_cumulative,24,City HQ Facility,Valley Research Annex,0,0,City HQ Facility,1,0
+gpt_sed_cumulative,25,Station Delta,Station Alpha,0,0,Station Delta,1,0
+gpt_sed_cumulative,26,Town Hall,University Science Library (USL),0,0,Town Hall,1,0
+gpt_sed_cumulative,27,Pine Ridge,Pine Ridge,1,1,Pine Ridge,1,0
+gpt_sed_cumulative,28,Forest Trail,River Route,0,1,Forest Trail,1,0
+gpt_sed_cumulative,29,Riverside Park,Summerfield School,0,1,Summerfield School,0,0
+gpt_sed_cumulative,30,Skylake Ventures,Peak Capital,0,0,Skylake Ventures,1,0
+gpt_sed_cumulative,31,Gamma Lake,Alpha Ridge,0,1,Gamma Lake,1,0
+gpt_sed_cumulative,32,Route C (Old Supply Road),Route A (Mountain Pass),0,1,Route A (Mountain Pass),0,0
+gpt_sed_cumulative,33,Lab Nova,Lab Gemini,0,0,Lab Nova,1,0
+gpt_sed_cumulative,34,Cedar Station,Maple Lodge,0,0,Cedar Station,1,0
+gpt_sed_cumulative,35,Red House,Green House,0,1,Red House,1,0
+gpt_sed_cumulative,36,Datacenter Gamma,Datacenter Beta,0,1,Datacenter Gamma,1,0
+gpt_sed_cumulative,37,Hilltop Storage,Bayview Warehouse,0,1,Bayview Warehouse,0,0
+gpt_sed_cumulative,38,Site C (Hilltop park),Site D (Library),0,0,Site A (Open field with tent),0,0
+gpt_sed_cumulative,39,LZ Alpha,LZ Bravo,0,0,LZ Alpha,1,0
+gpt_sed_cumulative,40,Meadow Valley General,Riverbend Medical Center,0,0,Meadow Valley General,1,0
+gpt_sed_cumulative,41,Mars Colony,Lunar Base,0,0,Mars Colony,1,0
+gpt_sed_cumulative,42,Eagle Ridge Lodge,Riverside Shelter,0,1,Eagle Ridge Lodge,1,0
+gpt_sed_cumulative,43,Canyon Depot,Beacon Post,0,1,Canyon Depot,1,0
+gpt_sed_cumulative,44,Hilltop Retreat,Riverside Conference Center,0,0,Hilltop Retreat,1,0
+gpt_sed_cumulative,45,Lab Gamma,Lab Beta,0,0,Lab Gamma,1,0
+gpt_sed_cumulative,46,Riverside School Gym,Downtown Library Hall,0,0,Riverside School Gym,1,0
+gpt_sed_cumulative,47,CEO's Office,CEO's Office,1,0,CEO's Office,1,0
+gpt_sed_cumulative,48,Lab 2 Bench,Cold Storage B,0,0,Decontamination Room,0,0
+gpt_sed_cumulative,49,Hilltop Cabin,Riverside Station,0,0,Hilltop Cabin,1,0
+gpt_sed_cumulative,50,Conference Room Gamma,Conference Room Beta,0,0,Conference Room Gamma,1,0
+gpt_sed_cumulative,51,Charlie Storage,Alpha Storage,0,1,Charlie Storage,1,0
+gpt_sed_cumulative,52,Green Valley Outpost,Red Cliff Lodge,0,1,Green Valley Outpost,1,0
+gpt_sed_cumulative,53,Mountain Ridge,Ocean Bluff,0,0,Mountain Ridge,1,0
+gpt_sed_cumulative,54,Site C,Site B,0,1,Site C,1,0
+gpt_sed_cumulative,55,Hospital,School,0,0,Hospital,1,0
+gpt_sed_cumulative,56,The Government Records Vault,The City Art Museum's Disaster-Proof Storage,0,0,The Government Records Vault,1,0
+gpt_sed_cumulative,57,Site C,Site B,0,0,Site C,1,0
+gpt_sed_cumulative,58,The Old Museum Basement,City Hall Annex,0,0,The Old Museum Basement,1,0
+gpt_sed_cumulative,59,Bravo Moving Co.,Charlie’s Transport,0,0,Bravo Moving Co.,1,0
+gpt_sed_cumulative,60,Area A (the Oak Woods),Area C (the Meadow),0,1,Area A (the Oak Woods),1,0
+gpt_sed_cumulative,61,Communication Tower,Main Generator Room,0,0,Communication Tower,1,0
+gpt_sed_cumulative,62,Option C: Logistics software company,Option B: AI hardware startup,0,0,Option C: Logistics software company,1,0
+gpt_sed_cumulative,63,Garden Hall,Garden Hall,1,1,Garden Hall,1,0
+gpt_sed_cumulative,64,Airborne Toxin from HVAC,Cafeteria Food,0,0,Airborne Toxin from HVAC,1,0
+gpt_sed_cumulative,65,School Gym,Clinic,0,0,School Gym,1,0
+gpt_sed_minus_a1,1,West City,East Town,0,0,East Town,0,0
+gpt_sed_minus_a1,2,North Hill,West City,0,0,North Hill,1,0
+gpt_sed_minus_a1,3,East Town,West City,0,0,West City,0,0
+gpt_sed_minus_a1,4,Mr. X's son,Mr. X,0,0,Mr. X,0,0
+gpt_sed_minus_a1,5,Roberts,Jones,0,0,Roberts,1,0
+gpt_sed_minus_a1,6,Candidate C,Candidate B,0,1,Candidate A,0,0
+gpt_sed_minus_a1,7,Starlight Incorporated,Cape Industries,0,0,Franklin Enterprises,0,0
+gpt_sed_minus_a1,8,Eddie Sullivan,Mickey Malone,0,0,Eddie Sullivan,1,0
+gpt_sed_minus_a1,9,Hospital A,Hospital B,0,0,Hospital A,1,0
+gpt_sed_minus_a1,10,Warehouse C,Warehouse B,0,0,Warehouse B,0,0
+gpt_sed_minus_a1,11,School Gym,City Library,0,0,City Library,0,0
+gpt_sed_minus_a1,12,Green Valley,Red Lake,0,1,Green Valley,1,0
+gpt_sed_minus_a1,13,Lab Gamma,Lab Alpha,0,1,Lab Gamma,1,0
+gpt_sed_minus_a1,14,Restaurant C,Restaurant B,0,0,Restaurant C,1,0
+gpt_sed_minus_a1,15,Downtown Police Station,University Library,0,0,Downtown Police Station,1,0
+gpt_sed_minus_a1,16,Charlie,Bravo,0,0,Charlie,1,0
+gpt_sed_minus_a1,17,Plateau Camp (D),Riverbank Clearing (B),0,0,Plateau Camp (D),1,0
+gpt_sed_minus_a1,18,Camp Pinecone,Camp Summit,0,0,Camp Pinecone,1,0
+gpt_sed_minus_a1,19,Oakridge Library,Greenfield High School,0,0,Oakridge Library,1,0
+gpt_sed_minus_a1,20,Shelter Alpha,Shelter Beta,0,0,Shelter Alpha,1,0
+gpt_sed_minus_a1,21,Celestia Airstrip,Aurora Train Station,0,1,Celestia Airstrip,1,0
+gpt_sed_minus_a1,22,Main Base,Retreat Camp,0,1,Main Base,1,0
+gpt_sed_minus_a1,23,Grand Oak Hotel,Lakeview Resort,0,1,Grand Oak Hotel,1,0
+gpt_sed_minus_a1,24,City HQ Facility,Valley Research Annex,0,0,City HQ Facility,1,0
+gpt_sed_minus_a1,25,Station Delta,Station Alpha,0,0,Station Delta,1,0
+gpt_sed_minus_a1,26,Town Hall,University Science Library (USL),0,0,Town Hall,1,0
+gpt_sed_minus_a1,27,Pine Ridge,Maple Valley,0,0,Pine Ridge,1,0
+gpt_sed_minus_a1,28,Forest Trail,River Route,0,0,Forest Trail,1,0
+gpt_sed_minus_a1,29,Riverside Park,Summerfield School,0,1,Riverside Park,1,0
+gpt_sed_minus_a1,30,Skylake Ventures,Peak Capital,0,0,Skylake Ventures,1,0
+gpt_sed_minus_a1,31,Gamma Lake,Alpha Ridge,0,0,Gamma Lake,1,0
+gpt_sed_minus_a1,32,Route C (Old Supply Road),Route A (Mountain Pass),0,1,Route C (Old Supply Road),1,0
+gpt_sed_minus_a1,33,Lab Nova,Lab Gemini,0,0,Lab Nova,1,0
+gpt_sed_minus_a1,34,Cedar Station,Maple Lodge,0,0,Cedar Station,1,0
+gpt_sed_minus_a1,35,Red House,Green House,0,1,Green House,0,0
+gpt_sed_minus_a1,36,Datacenter Gamma,Datacenter Beta,0,1,Datacenter Gamma,1,0
+gpt_sed_minus_a1,37,Hilltop Storage,Bayview Warehouse,0,1,Hilltop Storage,1,0
+gpt_sed_minus_a1,38,Site C (Hilltop park),Site A (Open field with tent),0,0,Site A (Open field with tent),0,0
+gpt_sed_minus_a1,39,LZ Alpha,LZ Bravo,0,0,LZ Alpha,1,0
+gpt_sed_minus_a1,40,Meadow Valley General,Riverbend Medical Center,0,0,Meadow Valley General,1,0
+gpt_sed_minus_a1,41,Mars Colony,Lunar Base,0,0,Mars Colony,1,0
+gpt_sed_minus_a1,42,Eagle Ridge Lodge,Riverside Shelter,0,1,Eagle Ridge Lodge,1,0
+gpt_sed_minus_a1,43,Canyon Depot,Beacon Post,0,0,Canyon Depot,1,0
+gpt_sed_minus_a1,44,Hilltop Retreat,Riverside Conference Center,0,0,Hilltop Retreat,1,0
+gpt_sed_minus_a1,45,Lab Gamma,Lab Beta,0,0,Lab Gamma,1,0
+gpt_sed_minus_a1,46,Riverside School Gym,Hillside Community Center,0,1,Riverside School Gym,1,0
+gpt_sed_minus_a1,47,CEO's Office,CEO's Office,1,0,CEO's Office,1,0
+gpt_sed_minus_a1,48,Lab 2 Bench,Cold Storage B,0,0,Lab 2 Bench,1,0
+gpt_sed_minus_a1,49,Hilltop Cabin,Riverside Station,0,0,Hilltop Cabin,1,0
+gpt_sed_minus_a1,50,Conference Room Gamma,Conference Room Gamma,1,0,Conference Room Alpha,0,0
+gpt_sed_minus_a1,51,Charlie Storage,Alpha Storage,0,1,Charlie Storage,1,0
+gpt_sed_minus_a1,52,Green Valley Outpost,Blue Lake Cabin,0,0,Green Valley Outpost,1,0
+gpt_sed_minus_a1,53,Mountain Ridge,Ocean Bluff,0,0,River Valley,0,0
+gpt_sed_minus_a1,54,Site C,Site B,0,1,Site C,1,0
+gpt_sed_minus_a1,55,Hospital,School,0,0,School,0,0
+gpt_sed_minus_a1,56,The Government Records Vault,The City Art Museum's Disaster-Proof Storage,0,0,The Government Records Vault,1,0
+gpt_sed_minus_a1,57,Site C,Site B,0,0,Site C,1,0
+gpt_sed_minus_a1,58,The Old Museum Basement,City Hall Annex,0,0,The Old Museum Basement,1,0
+gpt_sed_minus_a1,59,Bravo Moving Co.,Charlie’s Transport,0,0,Bravo Moving Co.,1,0
+gpt_sed_minus_a1,60,Area A (the Oak Woods),Area C (the Meadow),0,0,Area B (the Wetland),0,0
+gpt_sed_minus_a1,61,Communication Tower,Main Generator Room,0,0,Main Generator Room,0,0
+gpt_sed_minus_a1,62,Option C: Logistics software company,Option B: AI hardware startup,0,0,Option C: Logistics software company,1,0
+gpt_sed_minus_a1,63,Garden Hall,River Pavilion,0,0,Garden Hall,1,0
+gpt_sed_minus_a1,64,Airborne Toxin from HVAC,Cafeteria Food,0,0,Cafeteria Food,0,0
+gpt_sed_minus_a1,65,School Gym,Pharmacy,0,1,School Gym,1,0
+gpt_sed_minus_a2,1,West City,East Town,0,0,West City,1,0
+gpt_sed_minus_a2,2,North Hill,West City,0,0,West City,0,0
+gpt_sed_minus_a2,3,East Town,West City,0,0,West City,0,0
+gpt_sed_minus_a2,4,Mr. X's son,Mr. X,0,0,Mr. Z,0,0
+gpt_sed_minus_a2,5,Roberts,Jones,0,0,Roberts,1,0
+gpt_sed_minus_a2,6,Candidate C,Candidate B,0,0,Candidate B,0,0
+gpt_sed_minus_a2,7,Starlight Incorporated,Cape Industries,0,0,Starlight Incorporated,1,0
+gpt_sed_minus_a2,8,Eddie Sullivan,Billy Prentice,0,1,Billy Prentice,0,0
+gpt_sed_minus_a2,9,Hospital A,Hospital B,0,1,Hospital A,1,0
+gpt_sed_minus_a2,10,Warehouse C,Warehouse B,0,0,Warehouse C,1,0
+gpt_sed_minus_a2,11,School Gym,City Library,0,0,City Library,0,0
+gpt_sed_minus_a2,12,Green Valley,Red Lake,0,1,Green Valley,1,0
+gpt_sed_minus_a2,13,Lab Gamma,Lab Alpha,0,1,Lab Beta,0,0
+gpt_sed_minus_a2,14,Restaurant C,Restaurant B,0,0,Restaurant C,1,0
+gpt_sed_minus_a2,15,Downtown Police Station,Downtown Police Station,1,1,Downtown Police Station,1,0
+gpt_sed_minus_a2,16,Charlie,Bravo,0,1,Charlie,1,0
+gpt_sed_minus_a2,17,Plateau Camp (D),Riverbank Clearing (B),0,0,Riverbank Clearing (B),0,0
+gpt_sed_minus_a2,18,Camp Pinecone,Camp Summit,0,0,Camp Pinecone,1,0
+gpt_sed_minus_a2,19,Oakridge Library,Oakridge Library,1,0,Oakridge Library,1,0
+gpt_sed_minus_a2,20,Shelter Alpha,Shelter Beta,0,0,Shelter Alpha,1,0
+gpt_sed_minus_a2,21,Celestia Airstrip,Borealis Bus Terminal,0,0,Celestia Airstrip,1,0
+gpt_sed_minus_a2,22,Main Base,Retreat Camp,0,1,Main Base,1,0
+gpt_sed_minus_a2,23,Grand Oak Hotel,Lakeview Resort,0,1,Grand Oak Hotel,1,0
+gpt_sed_minus_a2,24,City HQ Facility,Valley Research Annex,0,0,City HQ Facility,1,0
+gpt_sed_minus_a2,25,Station Delta,Station Alpha,0,0,Station Delta,1,0
+gpt_sed_minus_a2,26,Town Hall,University Science Library (USL),0,0,Town Hall,1,0
+gpt_sed_minus_a2,27,Pine Ridge,Pine Ridge,1,1,Pine Ridge,1,0
+gpt_sed_minus_a2,28,Forest Trail,River Route,0,0,Forest Trail,1,0
+gpt_sed_minus_a2,29,Riverside Park,Summerfield School,0,1,Riverside Park,1,0
+gpt_sed_minus_a2,30,Skylake Ventures,Peak Capital,0,0,Skylake Ventures,1,0
+gpt_sed_minus_a2,31,Gamma Lake,Alpha Ridge,0,0,Gamma Lake,1,0
+gpt_sed_minus_a2,32,Route C (Old Supply Road),Route B (Frozen Lake),0,0,Route A (Mountain Pass),0,0
+gpt_sed_minus_a2,33,Lab Nova,Lab Gemini,0,0,Lab Nova,1,0
+gpt_sed_minus_a2,34,Cedar Station,Maple Lodge,0,0,Cedar Station,1,0
+gpt_sed_minus_a2,35,Red House,Green House,0,1,Red House,1,0
+gpt_sed_minus_a2,36,Datacenter Gamma,Datacenter Beta,0,1,Datacenter Gamma,1,0
+gpt_sed_minus_a2,37,Hilltop Storage,Bayview Warehouse,0,1,Hilltop Storage,1,0
+gpt_sed_minus_a2,38,Site C (Hilltop park),Site A (Open field with tent),0,0,Site B (Community sports center),0,0
+gpt_sed_minus_a2,39,LZ Alpha,LZ Bravo,0,0,LZ Alpha,1,0
+gpt_sed_minus_a2,40,Meadow Valley General,Riverbend Medical Center,0,0,Meadow Valley General,1,0
+gpt_sed_minus_a2,41,Mars Colony,Lunar Base,0,0,Mars Colony,1,0
+gpt_sed_minus_a2,42,Eagle Ridge Lodge,Riverside Shelter,0,1,Eagle Ridge Lodge,1,0
+gpt_sed_minus_a2,43,Canyon Depot,Canyon Depot,1,0,Canyon Depot,1,0
+gpt_sed_minus_a2,44,Hilltop Retreat,Riverside Conference Center,0,0,Hilltop Retreat,1,0
+gpt_sed_minus_a2,45,Lab Gamma,Lab Beta,0,0,Lab Gamma,1,0
+gpt_sed_minus_a2,46,Riverside School Gym,Downtown Library Hall,0,0,Riverside School Gym,1,0
+gpt_sed_minus_a2,47,CEO's Office,CEO's Office,1,0,CEO's Office,1,0
+gpt_sed_minus_a2,48,Lab 2 Bench,Cold Storage B,0,0,Lab 2 Bench,1,0
+gpt_sed_minus_a2,49,Hilltop Cabin,Riverside Station,0,0,Hilltop Cabin,1,0
+gpt_sed_minus_a2,50,Conference Room Gamma,Conference Room Beta,0,0,Conference Room Alpha,0,0
+gpt_sed_minus_a2,51,Charlie Storage,Alpha Storage,0,1,Charlie Storage,1,0
+gpt_sed_minus_a2,52,Green Valley Outpost,Blue Lake Cabin,0,0,Green Valley Outpost,1,0
+gpt_sed_minus_a2,53,Mountain Ridge,Ocean Bluff,0,0,River Valley,0,0
+gpt_sed_minus_a2,54,Site C,Site B,0,1,Site C,1,0
+gpt_sed_minus_a2,55,Hospital,School,0,0,Hospital,1,0
+gpt_sed_minus_a2,56,The Government Records Vault,The City Art Museum's Disaster-Proof Storage,0,0,The Government Records Vault,1,0
+gpt_sed_minus_a2,57,Site C,Site B,0,0,Site C,1,0
+gpt_sed_minus_a2,58,The Old Museum Basement,City Hall Annex,0,0,The Old Museum Basement,1,0
+gpt_sed_minus_a2,59,Bravo Moving Co.,Charlie’s Transport,0,0,Bravo Moving Co.,1,0
+gpt_sed_minus_a2,60,Area A (the Oak Woods),Area C (the Meadow),0,1,Area C (the Meadow),0,0
+gpt_sed_minus_a2,61,Communication Tower,Main Generator Room,0,0,Communication Tower,1,0
+gpt_sed_minus_a2,62,Option C: Logistics software company,Option B: AI hardware startup,0,0,Option C: Logistics software company,1,0
+gpt_sed_minus_a2,63,Garden Hall,River Pavilion,0,0,Garden Hall,1,0
+gpt_sed_minus_a2,64,Airborne Toxin from HVAC,Cafeteria Food,0,0,Airborne Toxin from HVAC,1,0
+gpt_sed_minus_a2,65,School Gym,Clinic,0,0,School Gym,1,0
+qwen_md,1,West City,North Hill,0,0,West City,1,0
+qwen_md,2,North Hill,East Town,0,1,East Town,0,0
+qwen_md,3,East Town,North Hill,0,0,West City,0,0
+qwen_md,4,Mr. X's son,Mr. X's son,1,1,Mr. X,0,0
+qwen_md,5,Roberts,Jones,0,0,Jones,0,0
+qwen_md,6,Candidate C,Candidate A,0,0,Candidate A,0,0
+qwen_md,7,Starlight Incorporated,Starlight Incorporated,1,0,Starlight Incorporated,1,0
+qwen_md,8,Eddie Sullivan,Mickey Malone,0,0,Mickey Malone,0,0
+qwen_md,9,Hospital A,Hospital B,0,1,Hospital B,0,0
+qwen_md,10,Warehouse C,Warehouse B,0,0,Warehouse B,0,0
+qwen_md,11,School Gym,Community Center,0,0,City Library,0,0
+qwen_md,12,Green Valley,Red Lake,0,0,Red Lake,0,0
+qwen_md,13,Lab Gamma,Lab Alpha,0,0,Lab Beta,0,0
+qwen_md,14,Restaurant C,Restaurant B,0,0,Restaurant C,1,0
+qwen_md,15,Downtown Police Station,University Library,0,0,University Library,0,0
+qwen_md,16,Charlie,Bravo,0,0,Bravo,0,0
+qwen_md,17,Plateau Camp (D),Deep Jungle Site (A),0,1,Plateau Camp (D),1,0
+qwen_md,18,Camp Pinecone,Camp Summit,0,0,Camp Pinecone,1,0
+qwen_md,19,Oakridge Library,Greenfield High School,0,0,Oakridge Library,1,0
+qwen_md,20,Shelter Alpha,Shelter Beta,0,0,Shelter Beta,0,0
+qwen_md,21,Celestia Airstrip,Aurora Train Station,0,1,Borealis Bus Terminal,0,0
+qwen_md,22,Main Base,Retreat Camp,0,0,Retreat Camp,0,0
+qwen_md,23,Grand Oak Hotel,Grand Oak Hotel,1,0,Heritage Public Library,0,0
+qwen_md,24,City HQ Facility,Valley Research Annex,0,0,Valley Research Annex,0,0
+qwen_md,25,Station Delta,Station Bravo,0,0,Station Delta,1,0
+qwen_md,26,Town Hall,University Science Library (USL),0,0,Town Hall,1,0
+qwen_md,27,Pine Ridge,Copper Lake,0,1,Maple Valley,0,0
+qwen_md,28,Forest Trail,River Route,0,0,Mountain Pass,0,0
+qwen_md,29,Riverside Park,Summerfield School,0,0,Riverside Park,1,0
+qwen_md,30,Skylake Ventures,Peak Capital,0,0,Peak Capital,0,0
+qwen_md,31,Gamma Lake,Gamma Lake,1,0,Gamma Lake,1,0
+qwen_md,32,Route C (Old Supply Road),Route B (Frozen Lake),0,0,Route A (Mountain Pass),0,0
+qwen_md,33,Lab Nova,Lab Gemini,0,1,Lab Nova,1,0
+qwen_md,34,Cedar Station,Maple Lodge,0,0,Cedar Station,1,0
+qwen_md,35,Red House,Blue House,0,0,Green House,0,0
+qwen_md,36,Datacenter Gamma,Datacenter Beta,0,0,Datacenter Beta,0,0
+qwen_md,37,Hilltop Storage,Central Depot,0,0,Central Depot,0,0
+qwen_md,38,Site C (Hilltop park),Site D (Library),0,0,Site D (Library),0,0
+qwen_md,39,LZ Alpha,LZ Bravo,0,0,LZ Bravo,0,0
+qwen_md,40,Meadow Valley General,Riverbend Medical Center,0,0,Riverbend Medical Center,0,0
+qwen_md,41,Mars Colony,Lunar Base,0,0,Orion Station,0,0
+qwen_md,42,Eagle Ridge Lodge,Riverside Shelter,0,0,Mason's Cabin,0,0
+qwen_md,43,Canyon Depot,Aurora Station,0,0,Aurora Station,0,0
+qwen_md,44,Hilltop Retreat,Riverside Conference Center,0,0,Hilltop Retreat,1,0
+qwen_md,45,Lab Gamma,Lab Gamma,1,1,Lab Gamma,1,0
+qwen_md,46,Riverside School Gym,Hillside Community Center,0,1,Downtown Library Hall,0,0
+qwen_md,47,CEO's Office,Storage Room,0,0,Storage Room,0,0
+qwen_md,48,Lab 2 Bench,Cold Storage B,0,0,Cold Storage B,0,0
+qwen_md,49,Hilltop Cabin,Riverside Station,0,0,Hilltop Cabin,1,0
+qwen_md,50,Conference Room Gamma,Conference Room Beta,0,0,Conference Room Beta,0,0
+qwen_md,51,Charlie Storage,Alpha Storage,0,0,Alpha Storage,0,0
+qwen_md,52,Green Valley Outpost,Blue Lake Cabin,0,0,Red Cliff Lodge,0,0
+qwen_md,53,Mountain Ridge,Ocean Bluff,0,0,Ocean Bluff,0,0
+qwen_md,54,Site C,Site B,0,1,Site B,0,0
+qwen_md,55,Hospital,School,0,0,School,0,0
+qwen_md,56,The Government Records Vault,The City Art Museum's Disaster-Proof Storage,0,0,The University Science Building's Secure Lab,0,0
+qwen_md,57,Site C,Site B,0,0,Site B,0,0
+qwen_md,58,The Old Museum Basement,City Hall Annex,0,0,City Hall Annex,0,0
+qwen_md,59,Bravo Moving Co.,Charlie’s Transport,0,1,Alpha Movers,0,0
+qwen_md,60,Area A (the Oak Woods),Area C (the Meadow),0,0,Area C (the Meadow),0,0
+qwen_md,61,Communication Tower,Main Generator Room,0,0,Main Generator Room,0,0
+qwen_md,62,Option C: Logistics software company,Option B: AI hardware startup,0,0,Option B: AI hardware startup,0,0
+qwen_md,63,Garden Hall,River Pavilion,0,0,River Pavilion,0,0
+qwen_md,64,Airborne Toxin from HVAC,Cafeteria Food,0,0,Cafeteria Food,0,0
+qwen_md,65,School Gym,Pharmacy,0,0,Pharmacy,0,0
+qwen_eda,1,West City,North Hill,0,0,West City,1,0
+qwen_eda,2,North Hill,East Town,0,1,West City,0,0
+qwen_eda,3,East Town,North Hill,0,0,East Town,1,0
+qwen_eda,4,Mr. X's son,Mr. X's son,1,1,Mr. X,0,0
+qwen_eda,5,Roberts,Jones,0,0,Jones,0,0
+qwen_eda,6,Candidate C,Candidate A,0,0,Candidate D,0,0
+qwen_eda,7,Starlight Incorporated,Starlight Incorporated,1,0,Cape Industries,0,0
+qwen_eda,8,Eddie Sullivan,Mickey Malone,0,0,Eddie Sullivan,1,0
+qwen_eda,9,Hospital A,Hospital B,0,1,Hospital A,1,1
+qwen_eda,10,Warehouse C,Warehouse B,0,0,Warehouse C,1,0
+qwen_eda,11,School Gym,Community Center,0,0,School Gym,1,0
+qwen_eda,12,Green Valley,Red Lake,0,0,Green Valley,1,0
+qwen_eda,13,Lab Gamma,Lab Alpha,0,0,Lab Gamma,1,0
+qwen_eda,14,Restaurant C,Restaurant B,0,0,Restaurant C,1,0
+qwen_eda,15,Downtown Police Station,University Library,0,0,City Bank,0,0
+qwen_eda,16,Charlie,Bravo,0,0,Charlie,1,0
+qwen_eda,17,Plateau Camp (D),Deep Jungle Site (A),0,1,Plateau Camp (D),1,0
+qwen_eda,18,Camp Pinecone,Camp Summit,0,0,Camp Pinecone,1,0
+qwen_eda,19,Oakridge Library,Greenfield High School,0,0,Blue River Community Center,0,1
+qwen_eda,20,Shelter Alpha,Shelter Beta,0,0,Shelter Gamma,0,0
+qwen_eda,21,Celestia Airstrip,Aurora Train Station,0,1,Borealis Bus Terminal,0,0
+qwen_eda,22,Main Base,Retreat Camp,0,0,Rescue Outpost,0,0
+qwen_eda,23,Grand Oak Hotel,Grand Oak Hotel,1,0,Heritage Public Library,0,0
+qwen_eda,24,City HQ Facility,Valley Research Annex,0,0,Mountain Server Farm,0,1
+qwen_eda,25,Station Delta,Station Bravo,0,0,Station Charlie,0,0
+qwen_eda,26,Town Hall,University Science Library (USL),0,0,Town Hall,1,0
+qwen_eda,27,Pine Ridge,Copper Lake,0,1,Maple Valley,0,1
+qwen_eda,28,Forest Trail,River Route,0,0,Forest Trail,1,0
+qwen_eda,29,Riverside Park,Summerfield School,0,0,Riverside Park,1,0
+qwen_eda,30,Skylake Ventures,Peak Capital,0,0,Skylake Ventures,1,0
+qwen_eda,31,Gamma Lake,Gamma Lake,1,0,Beta Valley,0,1
+qwen_eda,32,Route C (Old Supply Road),Route B (Frozen Lake),0,0,Route A (Mountain Pass),0,0
+qwen_eda,33,Lab Nova,Lab Gemini,0,1,Lab Nova,1,0
+qwen_eda,34,Cedar Station,Maple Lodge,0,0,Cedar Station,1,0
+qwen_eda,35,Red House,Blue House,0,0,Red House,1,0
+qwen_eda,36,Datacenter Gamma,Datacenter Beta,0,0,Datacenter Alpha,0,0
+qwen_eda,37,Hilltop Storage,Central Depot,0,0,Hilltop Storage,1,0
+qwen_eda,38,Site C (Hilltop park),Site D (Library),0,0,Site A (Open field with tent),0,0
+qwen_eda,39,LZ Alpha,LZ Bravo,0,0,LZ Charlie,0,0
+qwen_eda,40,Meadow Valley General,Riverbend Medical Center,0,0,Meadow Valley General,1,0
+qwen_eda,41,Mars Colony,Lunar Base,0,0,Lunar Base,0,0
+qwen_eda,42,Eagle Ridge Lodge,Riverside Shelter,0,0,Eagle Ridge Lodge,1,0
+qwen_eda,43,Canyon Depot,Aurora Station,0,0,Beacon Post,0,0
+qwen_eda,44,Hilltop Retreat,Riverside Conference Center,0,0,Hilltop Retreat,1,0
+qwen_eda,45,Lab Gamma,Lab Gamma,1,1,Lab Beta,0,0
+qwen_eda,46,Riverside School Gym,Hillside Community Center,0,1,Downtown Library Hall,0,1
+qwen_eda,47,CEO's Office,Storage Room,0,0,CEO's Office,1,0
+qwen_eda,48,Lab 2 Bench,Cold Storage B,0,0,Lab 2 Bench,1,0
+qwen_eda,49,Hilltop Cabin,Riverside Station,0,0,Hilltop Cabin,1,0
+qwen_eda,50,Conference Room Gamma,Conference Room Beta,0,0,Conference Room Gamma,1,0
+qwen_eda,51,Charlie Storage,Alpha Storage,0,0,Charlie Storage,1,0
+qwen_eda,52,Green Valley Outpost,Blue Lake Cabin,0,0,Green Valley Outpost,1,0
+qwen_eda,53,Mountain Ridge,Ocean Bluff,0,0,Forest Edge,0,0
+qwen_eda,54,Site C,Site B,0,1,Site C,1,0
+qwen_eda,55,Hospital,School,0,0,Hospital,1,0
+qwen_eda,56,The Government Records Vault,The City Art Museum's Disaster-Proof Storage,0,0,The University Science Building's Secure Lab,0,0
+qwen_eda,57,Site C,Site B,0,0,Site C,1,0
+qwen_eda,58,The Old Museum Basement,City Hall Annex,0,0,Riverside Conference Center,0,0
+qwen_eda,59,Bravo Moving Co.,Charlie’s Transport,0,1,Bravo Moving Co.,1,0
+qwen_eda,60,Area A (the Oak Woods),Area C (the Meadow),0,0,Area A (the Oak Woods),1,0
+qwen_eda,61,Communication Tower,Main Generator Room,0,0,Main Generator Room,0,0
+qwen_eda,62,Option C: Logistics software company,Option B: AI hardware startup,0,0,Option C: Logistics software company,1,0
+qwen_eda,63,Garden Hall,River Pavilion,0,0,Mountain Lodge,0,0
+qwen_eda,64,Airborne Toxin from HVAC,Cafeteria Food,0,0,Airborne Toxin from HVAC,1,0
+qwen_eda,65,School Gym,Pharmacy,0,0,Clinic,0,0
+qwen_sed,1,West City,East Town,0,1,West City,1,0
+qwen_sed,2,North Hill,West City,0,0,North Hill,1,0
+qwen_sed,3,East Town,North Hill,0,0,North Hill,0,0
+qwen_sed,4,Mr. X's son,Mrs. Y,0,1,Mr. X,0,0
+qwen_sed,5,Roberts,Jones,0,0,Roberts,1,0
+qwen_sed,6,Candidate C,Candidate D,0,0,Candidate C,1,0
+qwen_sed,7,Starlight Incorporated,Franklin Enterprises,0,0,Cape Industries,0,0
+qwen_sed,8,Eddie Sullivan,Mickey Malone,0,0,Eddie Sullivan,1,0
+qwen_sed,9,Hospital A,Hospital B,0,1,Hospital A,1,0
+qwen_sed,10,Warehouse C,Warehouse B,0,0,Warehouse C,1,0
+qwen_sed,11,School Gym,City Library,0,0,School Gym,1,0
+qwen_sed,12,Green Valley,Red Lake,0,0,Green Valley,1,0
+qwen_sed,13,Lab Gamma,Lab Alpha,0,0,Lab Gamma,1,0
+qwen_sed,14,Restaurant C,Restaurant B,0,0,Restaurant C,1,0
+qwen_sed,15,Downtown Police Station,University Library,0,0,Downtown Police Station,1,0
+qwen_sed,16,Charlie,Bravo,0,0,Charlie,1,0
+qwen_sed,17,Plateau Camp (D),Deep Jungle Site (A),0,0,Plateau Camp (D),1,0
+qwen_sed,18,Camp Pinecone,Camp Summit,0,0,Camp Pinecone,1,0
+qwen_sed,19,Oakridge Library,Greenfield High School,0,0,Oakridge Library,1,0
+qwen_sed,20,Shelter Alpha,Shelter Beta,0,0,Shelter Alpha,1,0
+qwen_sed,21,Celestia Airstrip,Aurora Train Station,0,1,Celestia Airstrip,1,0
+qwen_sed,22,Main Base,Retreat Camp,0,0,Main Base,1,0
+qwen_sed,23,Grand Oak Hotel,Lakeview Resort,0,1,Grand Oak Hotel,1,0
+qwen_sed,24,City HQ Facility,Valley Research Annex,0,0,City HQ Facility,1,0
+qwen_sed,25,Station Delta,Station Bravo,0,0,Station Delta,1,0
+qwen_sed,26,Town Hall,Town Hall,1,1,Town Hall,1,0
+qwen_sed,27,Pine Ridge,Copper Lake,0,1,Pine Ridge,1,0
+qwen_sed,28,Forest Trail,River Route,0,0,Forest Trail,1,0
+qwen_sed,29,Riverside Park,Riverside Park,1,0,Riverside Park,1,0
+qwen_sed,30,Skylake Ventures,Skylake Ventures,1,1,Skylake Ventures,1,0
+qwen_sed,31,Gamma Lake,Alpha Ridge,0,1,Gamma Lake,1,0
+qwen_sed,32,Route C (Old Supply Road),Route B (Frozen Lake),0,0,Route C (Old Supply Road),1,0
+qwen_sed,33,Lab Nova,Lab Gemini,0,1,Lab Nova,1,0
+qwen_sed,34,Cedar Station,Maple Lodge,0,0,Cedar Station,1,0
+qwen_sed,35,Red House,Blue House,0,0,Red House,1,0
+qwen_sed,36,Datacenter Gamma,Datacenter Beta,0,1,Datacenter Gamma,1,0
+qwen_sed,37,Hilltop Storage,Central Depot,0,0,Hilltop Storage,1,0
+qwen_sed,38,Site C (Hilltop park),Site A (Open field with tent),0,0,Site C (Hilltop park),1,0
+qwen_sed,39,LZ Alpha,LZ Bravo,0,0,LZ Alpha,1,0
+qwen_sed,40,Meadow Valley General,Riverbend Medical Center,0,0,Meadow Valley General,1,0
+qwen_sed,41,Mars Colony,Orion Station,0,0,Mars Colony,1,0
+qwen_sed,42,Eagle Ridge Lodge,Riverside Shelter,0,0,Eagle Ridge Lodge,1,0
+qwen_sed,43,Canyon Depot,Aurora Station,0,0,Canyon Depot,1,0
+qwen_sed,44,Hilltop Retreat,Riverside Conference Center,0,0,Hilltop Retreat,1,0
+qwen_sed,45,Lab Gamma,Lab Gamma,1,1,Lab Gamma,1,0
+qwen_sed,46,Riverside School Gym,Hillside Community Center,0,1,Riverside School Gym,1,0
+qwen_sed,47,CEO's Office,Storage Room,0,0,CEO's Office,1,0
+qwen_sed,48,Lab 2 Bench,Cold Storage B,0,0,Lab 2 Bench,1,0
+qwen_sed,49,Hilltop Cabin,Riverside Station,0,0,Riverside Station,0,0
+qwen_sed,50,Conference Room Gamma,Conference Room Beta,0,0,Conference Room Gamma,1,0
+qwen_sed,51,Charlie Storage,Alpha Storage,0,1,Charlie Storage,1,0
+qwen_sed,52,Green Valley Outpost,Blue Lake Cabin,0,0,Green Valley Outpost,1,0
+qwen_sed,53,Mountain Ridge,Ocean Bluff,0,1,Mountain Ridge,1,0
+qwen_sed,54,Site C,Site B,0,1,Site C,1,0
+qwen_sed,55,Hospital,School,0,0,Hospital,1,0
+qwen_sed,56,The Government Records Vault,The City Art Museum's Disaster-Proof Storage,0,0,The Government Records Vault,1,0
+qwen_sed,57,Site C,Site B,0,0,Site C,1,0
+qwen_sed,58,The Old Museum Basement,City Hall Annex,0,0,The Old Museum Basement,1,0
+qwen_sed,59,Bravo Moving Co.,Charlie’s Transport,0,1,Charlie’s Transport,0,0
+qwen_sed,60,Area A (the Oak Woods),Area C (the Meadow),0,0,Area A (the Oak Woods),1,0
+qwen_sed,61,Communication Tower,Main Generator Room,0,0,Communication Tower,1,0
+qwen_sed,62,Option C: Logistics software company,Option B: AI hardware startup,0,0,Option C: Logistics software company,1,0
+qwen_sed,63,Garden Hall,River Pavilion,0,0,Garden Hall,1,0
+qwen_sed,64,Airborne Toxin from HVAC,Cafeteria Food,0,0,Airborne Toxin from HVAC,1,0
+qwen_sed,65,School Gym,Pharmacy,0,0,School Gym,1,0
+gemini_md,1,West City,West City,1,0,West City,1,0
+gemini_md,2,North Hill,North Hill,1,1,North Hill,1,0
+gemini_md,3,East Town,North Hill,0,0,East Town,1,0
+gemini_md,4,Mr. X's son,Mrs. Y,0,1,Mrs. Y,0,1
+gemini_md,5,Roberts,Stevens,0,0,Jones,0,0
+gemini_md,6,Candidate C,Candidate A,0,0,Candidate D,0,0
+gemini_md,7,Starlight Incorporated,Starlight Incorporated,1,0,Starlight Incorporated,1,0
+gemini_md,8,Eddie Sullivan,Billy Prentice,0,1,Billy Prentice,0,0
+gemini_md,9,Hospital A,Hospital C,0,0,Hospital C,0,0
+gemini_md,10,Warehouse C,Warehouse C,1,1,Warehouse B,0,0
+gemini_md,11,School Gym,City Library,0,0,City Library,0,0
+gemini_md,12,Green Valley,Blueberry Ridge,0,0,Blueberry Ridge,0,0
+gemini_md,13,Lab Gamma,Lab Alpha,0,0,Lab Gamma,1,0
+gemini_md,14,Restaurant C,Restaurant B,0,0,Restaurant B,0,0
+gemini_md,15,Downtown Police Station,City Bank,0,1,City Bank,0,1
+gemini_md,16,Charlie,Bravo,0,1,Charlie,1,0
+gemini_md,17,Plateau Camp (D),Riverbank Clearing (B),0,0,Riverbank Clearing (B),0,0
+gemini_md,18,Camp Pinecone,Camp Pinecone,1,1,Camp Pinecone,1,0
+gemini_md,19,Oakridge Library,Greenfield High School,0,0,Greenfield High School,0,0
+gemini_md,20,Shelter Alpha,Shelter Beta,0,0,Shelter Beta,0,0
+gemini_md,21,Celestia Airstrip,Aurora Train Station,0,0,Aurora Train Station,0,0
+gemini_md,22,Main Base,Retreat Camp,0,0,Retreat Camp,0,0
+gemini_md,23,Grand Oak Hotel,Lakeview Resort,0,0,Grand Oak Hotel,1,0
+gemini_md,24,City HQ Facility,Valley Research Annex,0,0,Valley Research Annex,0,0
+gemini_md,25,Station Delta,Station Alpha,0,0,Station Delta,1,0
+gemini_md,26,Town Hall,University Science Library (USL),0,0,University Science Library (USL),0,0
+gemini_md,27,Pine Ridge,Pine Ridge,1,0,Pine Ridge,1,0
+gemini_md,28,Forest Trail,Mountain Pass,0,0,River Route,0,0
+gemini_md,29,Riverside Park,Summerfield School,0,1,Mountain Lodge,0,0
+gemini_md,30,Skylake Ventures,Peak Capital,0,0,Skylake Ventures,1,0
+gemini_md,31,Gamma Lake,Gamma Lake,1,0,Gamma Lake,1,0
+gemini_md,32,Route C (Old Supply Road),Route A (Mountain Pass),0,0,Route C (Old Supply Road),1,0
+gemini_md,33,Lab Nova,Lab Gemini,0,0,Lab Gemini,0,0
+gemini_md,34,Cedar Station,Pine Retreat,0,1,Cedar Station,1,0
+gemini_md,35,Red House,Green House,0,0,Red House,1,0
+gemini_md,36,Datacenter Gamma,Datacenter Beta,0,1,Datacenter Beta,0,0
+gemini_md,37,Hilltop Storage,Bayview Warehouse,0,0,Bayview Warehouse,0,0
+gemini_md,38,Site C (Hilltop park),Site D (Library),0,0,Site C (Hilltop park),1,0
+gemini_md,39,LZ Alpha,LZ Bravo,0,0,LZ Charlie,0,0
+gemini_md,40,Meadow Valley General,Riverbend Medical Center,0,0,Meadow Valley General,1,0
+gemini_md,41,Mars Colony,Lunar Base,0,0,Lunar Base,0,1
+gemini_md,42,Eagle Ridge Lodge,Riverside Shelter,0,1,Eagle Ridge Lodge,1,0
+gemini_md,43,Canyon Depot,Beacon Post,0,0,Canyon Depot,1,0
+gemini_md,44,Hilltop Retreat,Riverside Conference Center,0,0,Riverside Conference Center,0,0
+gemini_md,45,Lab Gamma,Lab Beta,0,0,Lab Beta,0,0
+gemini_md,46,Riverside School Gym,Downtown Library Hall,0,0,Riverside School Gym,1,1
+gemini_md,47,CEO's Office,Conference Room,0,1,Storage Room,0,0
+gemini_md,48,Lab 2 Bench,Cold Storage B,0,0,Cold Storage B,0,0
+gemini_md,49,Hilltop Cabin,Riverside Station,0,0,Riverside Station,0,0
+gemini_md,50,Conference Room Gamma,Conference Room Beta,0,0,Conference Room Beta,0,0
+gemini_md,51,Charlie Storage,Alpha Storage,0,1,Alpha Storage,0,0
+gemini_md,52,Green Valley Outpost,Red Cliff Lodge,0,1,Blue Lake Cabin,0,0
+gemini_md,53,Mountain Ridge,Ocean Bluff,0,0,Ocean Bluff,0,0
+gemini_md,54,Site C,Site B,0,1,Site B,0,0
+gemini_md,55,Hospital,School,0,0,School,0,0
+gemini_md,56,The Government Records Vault,The University Science Building's Secure Lab,0,1,The Government Records Vault,1,0
+gemini_md,57,Site C,Site B,0,0,Site B,0,0
+gemini_md,58,The Old Museum Basement,City Hall Annex,0,0,City Hall Annex,0,0
+gemini_md,59,Bravo Moving Co.,Charlie’s Transport,0,0,Charlie’s Transport,0,0
+gemini_md,60,Area A (the Oak Woods),Area C (the Meadow),0,0,Area A (the Oak Woods),1,0
+gemini_md,61,Communication Tower,Main Generator Room,0,0,Main Generator Room,0,0
+gemini_md,62,Option C: Logistics software company,Option C: Logistics software company,1,0,Option C: Logistics software company,1,0
+gemini_md,63,Garden Hall,River Pavilion,0,0,River Pavilion,0,0
+gemini_md,64,Airborne Toxin from HVAC,Airborne Toxin from HVAC,1,1,Airborne Toxin from HVAC,1,0
+gemini_md,65,School Gym,Pharmacy,0,0,Pharmacy,0,0
+gemini_eda,1,West City,East Town,0,1,West City,1,0
+gemini_eda,2,North Hill,North Hill,1,1,East Town,0,0
+gemini_eda,3,East Town,North Hill,0,0,West City,0,0
+gemini_eda,4,Mr. X's son,Mrs. Y,0,1,Mr. Z,0,0
+gemini_eda,5,Roberts,Stevens,0,0,Jones,0,0
+gemini_eda,6,Candidate C,Candidate A,0,0,Candidate B,0,0
+gemini_eda,7,Starlight Incorporated,Starlight Incorporated,1,0,Franklin Enterprises,0,0
+gemini_eda,8,Eddie Sullivan,Billy Prentice,0,1,Eddie Sullivan,1,0
+gemini_eda,9,Hospital A,Hospital C,0,0,Hospital A,1,0
+gemini_eda,10,Warehouse C,Warehouse C,1,1,Warehouse C,1,1
+gemini_eda,11,School Gym,City Library,0,0,City Library,0,0
+gemini_eda,12,Green Valley,Blueberry Ridge,0,0,Green Valley,1,0
+gemini_eda,13,Lab Gamma,Lab Alpha,0,0,Lab Beta,0,0
+gemini_eda,14,Restaurant C,Restaurant B,0,0,Restaurant C,1,0
+gemini_eda,15,Downtown Police Station,City Bank,0,1,City Bank,0,1
+gemini_eda,16,Charlie,Bravo,0,1,Charlie,1,0
+gemini_eda,17,Plateau Camp (D),Riverbank Clearing (B),0,0,Riverbank Clearing (B),0,0
+gemini_eda,18,Camp Pinecone,Camp Pinecone,1,1,Camp Pinecone,1,1
+gemini_eda,19,Oakridge Library,Greenfield High School,0,0,Greenfield High School,0,0
+gemini_eda,20,Shelter Alpha,Shelter Beta,0,0,Shelter Gamma,0,1
+gemini_eda,21,Celestia Airstrip,Aurora Train Station,0,0,Borealis Bus Terminal,0,0
+gemini_eda,22,Main Base,Retreat Camp,0,0,Retreat Camp,0,0
+gemini_eda,23,Grand Oak Hotel,Lakeview Resort,0,0,Lakeview Resort,0,1
+gemini_eda,24,City HQ Facility,Valley Research Annex,0,0,Mountain Server Farm,0,1
+gemini_eda,25,Station Delta,Station Alpha,0,0,Station Delta,1,0
+gemini_eda,26,Town Hall,University Science Library (USL),0,0,University Science Library (USL),0,0
+gemini_eda,27,Pine Ridge,Pine Ridge,1,0,Copper Lake,0,0
+gemini_eda,28,Forest Trail,Forest Trail,1,0,River Route,0,0
+gemini_eda,29,Riverside Park,Summerfield School,0,1,Riverside Park,1,1
+gemini_eda,30,Skylake Ventures,Peak Capital,0,0,Skylake Ventures,1,0
+gemini_eda,31,Gamma Lake,Beta Valley,0,0,Gamma Lake,1,0
+gemini_eda,32,Route C (Old Supply Road),Route A (Mountain Pass),0,0,Route A (Mountain Pass),0,1
+gemini_eda,33,Lab Nova,Lab Gemini,0,0,Lab Gemini,0,1
+gemini_eda,34,Cedar Station,Cedar Station,1,0,Cedar Station,1,0
+gemini_eda,35,Red House,Blue House,0,0,Red House,1,0
+gemini_eda,36,Datacenter Gamma,Datacenter Beta,0,1,Datacenter Gamma,1,1
+gemini_eda,37,Hilltop Storage,Bayview Warehouse,0,0,Hilltop Storage,1,0
+gemini_eda,38,Site C (Hilltop park),Site D (Library),0,0,Site A (Open field with tent),0,0
+gemini_eda,39,LZ Alpha,LZ Bravo,0,0,LZ Bravo,0,0
+gemini_eda,40,Meadow Valley General,Riverbend Medical Center,0,0,Riverbend Medical Center,0,1
+gemini_eda,41,Mars Colony,Lunar Base,0,0,Lunar Base,0,0
+gemini_eda,42,Eagle Ridge Lodge,Riverside Shelter,0,1,Eagle Ridge Lodge,1,0
+gemini_eda,43,Canyon Depot,Beacon Post,0,0,Canyon Depot,1,0
+gemini_eda,44,Hilltop Retreat,Riverside Conference Center,0,0,Hilltop Retreat,1,0
+gemini_eda,45,Lab Gamma,Lab Beta,0,0,Lab Gamma,1,0
+gemini_eda,46,Riverside School Gym,Downtown Library Hall,0,0,Downtown Library Hall,0,0
+gemini_eda,47,CEO's Office,Conference Room,0,1,Storage Room,0,0
+gemini_eda,48,Lab 2 Bench,Cold Storage B,0,0,Cold Storage B,0,0
+gemini_eda,49,Hilltop Cabin,Riverside Station,0,0,Hilltop Cabin,1,0
+gemini_eda,50,Conference Room Gamma,Conference Room Beta,0,0,Conference Room Beta,0,0
+gemini_eda,51,Charlie Storage,Alpha Storage,0,1,Bravo Storage,0,0
+gemini_eda,52,Green Valley Outpost,Red Cliff Lodge,0,1,Blue Lake Cabin,0,0
+gemini_eda,53,Mountain Ridge,Ocean Bluff,0,0,Mountain Ridge,1,0
+gemini_eda,54,Site C,Site B,0,1,Site B,0,0
+gemini_eda,55,Hospital,School,0,0,School,0,0
+gemini_eda,56,The Government Records Vault,The University Science Building's Secure Lab,0,1,The Government Records Vault,1,0
+gemini_eda,57,Site C,Site B,0,0,Site B,0,0
+gemini_eda,58,The Old Museum Basement,City Hall Annex,0,0,City Hall Annex,0,0
+gemini_eda,59,Bravo Moving Co.,Charlie’s Transport,0,0,Bravo Moving Co.,1,0
+gemini_eda,60,Area A (the Oak Woods),Area C (the Meadow),0,0,Area A (the Oak Woods),1,0
+gemini_eda,61,Communication Tower,Main Generator Room,0,0,Main Generator Room,0,0
+gemini_eda,62,Option C: Logistics software company,Option C: Logistics software company,1,0,Option C: Logistics software company,1,0
+gemini_eda,63,Garden Hall,River Pavilion,0,0,River Pavilion,0,0
+gemini_eda,64,Airborne Toxin from HVAC,Airborne Toxin from HVAC,1,1,Cafeteria Food,0,0
+gemini_eda,65,School Gym,Pharmacy,0,0,School Gym,1,0
+gemini_sed,1,West City,West City,1,0,East Town,0,0
+gemini_sed,2,North Hill,West City,0,0,North Hill,1,0
+gemini_sed,3,East Town,West City,0,1,East Town,1,0
+gemini_sed,4,Mr. X's son,Mr. Z,0,0,Mr. Z,0,0
+gemini_sed,5,Roberts,Stevens,0,0,Roberts,1,0
+gemini_sed,6,Candidate C,Candidate B,0,0,Candidate D,0,0
+gemini_sed,7,Starlight Incorporated,Starlight Incorporated,1,1,Starlight Incorporated,1,0
+gemini_sed,8,Eddie Sullivan,Billy Prentice,0,0,Eddie Sullivan,1,0
+gemini_sed,9,Hospital A,Hospital A,1,0,Hospital A,1,0
+gemini_sed,10,Warehouse C,Warehouse B,0,0,Warehouse C,1,0
+gemini_sed,11,School Gym,City Library,0,0,School Gym,1,0
+gemini_sed,12,Green Valley,Blueberry Ridge,0,0,Green Valley,1,0
+gemini_sed,13,Lab Gamma,Lab Alpha,0,0,Lab Gamma,1,0
+gemini_sed,14,Restaurant C,Restaurant B,0,0,Restaurant B,0,0
+gemini_sed,15,Downtown Police Station,City Bank,0,0,Downtown Police Station,1,0
+gemini_sed,16,Charlie,Bravo,0,0,Charlie,1,0
+gemini_sed,17,Plateau Camp (D),Riverbank Clearing (B),0,0,Plateau Camp (D),1,0
+gemini_sed,18,Camp Pinecone,Camp Summit,0,0,Camp Pinecone,1,0
+gemini_sed,19,Oakridge Library,Greenfield High School,0,0,Oakridge Library,1,0
+gemini_sed,20,Shelter Alpha,Shelter Beta,0,0,Shelter Alpha,1,0
+gemini_sed,21,Celestia Airstrip,Aurora Train Station,0,1,Celestia Airstrip,1,0
+gemini_sed,22,Main Base,Retreat Camp,0,0,Main Base,1,0
+gemini_sed,23,Grand Oak Hotel,Lakeview Resort,0,0,Grand Oak Hotel,1,0
+gemini_sed,24,City HQ Facility,Valley Research Annex,0,0,City HQ Facility,1,0
+gemini_sed,25,Station Delta,Station Alpha,0,1,Station Delta,1,0
+gemini_sed,26,Town Hall,Town Hall,1,1,Town Hall,1,0
+gemini_sed,27,Pine Ridge,Copper Lake,0,1,Pine Ridge,1,0
+gemini_sed,28,Forest Trail,Mountain Pass,0,0,Forest Trail,1,0
+gemini_sed,29,Riverside Park,Riverside Park,1,0,Riverside Park,1,0
+gemini_sed,30,Skylake Ventures,Peak Capital,0,0,Skylake Ventures,1,0
+gemini_sed,31,Gamma Lake,Beta Valley,0,0,Gamma Lake,1,0
+gemini_sed,32,Route C (Old Supply Road),Route A (Mountain Pass),0,0,Route C (Old Supply Road),1,0
+gemini_sed,33,Lab Nova,Lab Atlas,0,1,Lab Nova,1,0
+gemini_sed,34,Cedar Station,Pine Retreat,0,1,Cedar Station,1,0
+gemini_sed,35,Red House,Green House,0,0,Red House,1,0
+gemini_sed,36,Datacenter Gamma,Datacenter Alpha,0,0,Datacenter Gamma,1,0
+gemini_sed,37,Hilltop Storage,Central Depot,0,0,Hilltop Storage,1,0
+gemini_sed,38,Site C (Hilltop park),Site B (Community sports center),0,1,Site C (Hilltop park),1,0
+gemini_sed,39,LZ Alpha,LZ Bravo,0,0,LZ Alpha,1,0
+gemini_sed,40,Meadow Valley General,Lakeview Hospital,0,0,Meadow Valley General,1,0
+gemini_sed,41,Mars Colony,Orion Station,0,0,Lunar Base,0,0
+gemini_sed,42,Eagle Ridge Lodge,Riverside Shelter,0,0,Eagle Ridge Lodge,1,0
+gemini_sed,43,Canyon Depot,Aurora Station,0,0,Canyon Depot,1,0
+gemini_sed,44,Hilltop Retreat,Riverside Conference Center,0,0,Hilltop Retreat,1,0
+gemini_sed,45,Lab Gamma,Lab Gamma,1,0,Lab Gamma,1,0
+gemini_sed,46,Riverside School Gym,Hillside Community Center,0,0,Riverside School Gym,1,0
+gemini_sed,47,CEO's Office,Storage Room,0,0,CEO's Office,1,0
+gemini_sed,48,Lab 2 Bench,Cold Storage B,0,0,Decontamination Room,0,0
+gemini_sed,49,Hilltop Cabin,Riverside Station,0,1,Hilltop Cabin,1,0
+gemini_sed,50,Conference Room Gamma,Conference Room Beta,0,0,Conference Room Gamma,1,0
+gemini_sed,51,Charlie Storage,Alpha Storage,0,0,Charlie Storage,1,0
+gemini_sed,52,Green Valley Outpost,Blue Lake Cabin,0,0,Red Cliff Lodge,0,0
+gemini_sed,53,Mountain Ridge,Ocean Bluff,0,0,Mountain Ridge,1,0
+gemini_sed,54,Site C,Site A,0,0,Site C,1,0
+gemini_sed,55,Hospital,School,0,0,Hospital,1,0
+gemini_sed,56,The Government Records Vault,The University Science Building's Secure Lab,0,0,The Government Records Vault,1,0
+gemini_sed,57,Site C,Site A,0,0,Site C,1,0
+gemini_sed,58,The Old Museum Basement,City Hall Annex,0,0,The Old Museum Basement,1,0
+gemini_sed,59,Bravo Moving Co.,Charlie’s Transport,0,0,Bravo Moving Co.,1,0
+gemini_sed,60,Area A (the Oak Woods),Area C (the Meadow),0,0,Area A (the Oak Woods),1,0
+gemini_sed,61,Communication Tower,Main Generator Room,0,0,Communication Tower,1,0
+gemini_sed,62,Option C: Logistics software company,Option B: AI hardware startup,0,1,Option C: Logistics software company,1,0
+gemini_sed,63,Garden Hall,River Pavilion,0,0,Garden Hall,1,0
+gemini_sed,64,Airborne Toxin from HVAC,Cafeteria Food,0,0,Airborne Toxin from HVAC,1,0
+gemini_sed,65,School Gym,Pharmacy,0,0,School Gym,1,0

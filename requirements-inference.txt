@@ -1,0 +1,7 @@
+# Needed only to inspect or adapt the historical API/local inference runners.
+# Offline metric recomputation uses Python 3.11+ standard library only.
+openai>=1.30.0
+python-dotenv>=1.0.0
+google-genai>=1.75.0
+transformers>=4.51.0
+vllm>=0.8.5
